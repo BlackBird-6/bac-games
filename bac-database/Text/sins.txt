@@ -1,0 +1,403 @@
+Every occurrence of incorrect criteria names regarding the advancement it shows up for
+* indicates that it's still technically correct
+====================================================================================================
+
+=====I am Ravager, hear me ROAR! (1)=====
+deflected_crossbow    {'trigger': 'minecraft:entity_hurt_player', 'conditions': {'damage': {'blocked': True, 'source_entity': {'type': 'ravager'}}}}
+
+*=====Justice (1)=====
+arbalistic    {'trigger': 'minecraft:killed_by_arrow', 'conditions': {'victims': [{'type': 'minecraft:pillager'}, {'type': 'minecraft:vindicator'}, {'type': 'minecraft:evoker'}, {'type': 'minecraft:ravager'}, {'type': 'minecraft:witch'}], 'fired_from_weapon': {'items': 'minecraft:crossbow'}}}
+
+*=====Veteran of the Village (1)=====
+hero_of_the_village    {'trigger': 'minecraft:effects_changed', 'conditions': {'effects': {'minecraft:hero_of_the_village': {'amplifier': {'min': 4}}}}}
+
+
+=====Mushroom Scientist (1)=====
+struck_villager    {'trigger': 'minecraft:channeled_lightning', 'conditions': {'victims': [{'type': 'minecraft:mooshroom'}]}}
+
+
+=====Tropical Collection (22)=====
+fish1    {'trigger': 'minecraft:player_interacted_with_entity', 'conditions': {'item': {'items': ['minecraft:water_bucket']}, 'entity': [{'condition': 'minecraft:entity_properties', 'entity': 'this', 'predicate': {'type': 'minecraft:tropical_fish', 'nbt': '{Variant:65536}'}}]}}
+fish2    {'trigger': 'minecraft:player_interacted_with_entity', 'conditions': {'item': {'items': ['minecraft:water_bucket']}, 'entity': [{'condition': 'minecraft:entity_properties', 'entity': 'this', 'predicate': {'type': 'minecraft:tropical_fish', 'nbt': '{Variant:917504}'}}]}}
+fish3    {'trigger': 'minecraft:player_interacted_with_entity', 'conditions': {'item': {'items': ['minecraft:water_bucket']}, 'entity': [{'condition': 'minecraft:entity_properties', 'entity': 'this', 'predicate': {'type': 'minecraft:tropical_fish', 'nbt': '{Variant:918273}'}}]}}
+fish4    {'trigger': 'minecraft:player_interacted_with_entity', 'conditions': {'item': {'items': ['minecraft:water_bucket']}, 'entity': [{'condition': 'minecraft:entity_properties', 'entity': 'this', 'predicate': {'type': 'minecraft:tropical_fish', 'nbt': '{Variant:918529}'}}]}}
+fish5    {'trigger': 'minecraft:player_interacted_with_entity', 'conditions': {'item': {'items': ['minecraft:water_bucket']}, 'entity': [{'condition': 'minecraft:entity_properties', 'entity': 'this', 'predicate': {'type': 'minecraft:tropical_fish', 'nbt': '{Variant:16778497}'}}]}}
+fish6    {'trigger': 'minecraft:player_interacted_with_entity', 'conditions': {'item': {'items': ['minecraft:water_bucket']}, 'entity': [{'condition': 'minecraft:entity_properties', 'entity': 'this', 'predicate': {'type': 'minecraft:tropical_fish', 'nbt': '{Variant:50660352}'}}]}}
+fish7    {'trigger': 'minecraft:player_interacted_with_entity', 'conditions': {'item': {'items': ['minecraft:water_bucket']}, 'entity': [{'condition': 'minecraft:entity_properties', 'entity': 'this', 'predicate': {'type': 'minecraft:tropical_fish', 'nbt': '{Variant:50726144}'}}]}}
+fish8    {'trigger': 'minecraft:player_interacted_with_entity', 'conditions': {'item': {'items': ['minecraft:water_bucket']}, 'entity': [{'condition': 'minecraft:entity_properties', 'entity': 'this', 'predicate': {'type': 'minecraft:tropical_fish', 'nbt': '{Variant:67108865}'}}]}}
+fish9    {'trigger': 'minecraft:player_interacted_with_entity', 'conditions': {'item': {'items': ['minecraft:water_bucket']}, 'entity': [{'condition': 'minecraft:entity_properties', 'entity': 'this', 'predicate': {'type': 'minecraft:tropical_fish', 'nbt': '{Variant:67110144}'}}]}}
+fish10    {'trigger': 'minecraft:player_interacted_with_entity', 'conditions': {'item': {'items': ['minecraft:water_bucket']}, 'entity': [{'condition': 'minecraft:entity_properties', 'entity': 'this', 'predicate': {'type': 'minecraft:tropical_fish', 'nbt': '{Variant:67371009}'}}]}}
+fish11    {'trigger': 'minecraft:player_interacted_with_entity', 'conditions': {'item': {'items': ['minecraft:water_bucket']}, 'entity': [{'condition': 'minecraft:entity_properties', 'entity': 'this', 'predicate': {'type': 'minecraft:tropical_fish', 'nbt': '{Variant:67764993}'}}]}}
+fish12    {'trigger': 'minecraft:player_interacted_with_entity', 'conditions': {'item': {'items': ['minecraft:water_bucket']}, 'entity': [{'condition': 'minecraft:entity_properties', 'entity': 'this', 'predicate': {'type': 'minecraft:tropical_fish', 'nbt': '{Variant:101253888}'}}]}}
+fish13    {'trigger': 'minecraft:player_interacted_with_entity', 'conditions': {'item': {'items': ['minecraft:water_bucket']}, 'entity': [{'condition': 'minecraft:entity_properties', 'entity': 'this', 'predicate': {'type': 'minecraft:tropical_fish', 'nbt': '{Variant:117441025}'}}]}}
+fish14    {'trigger': 'minecraft:player_interacted_with_entity', 'conditions': {'item': {'items': ['minecraft:water_bucket']}, 'entity': [{'condition': 'minecraft:entity_properties', 'entity': 'this', 'predicate': {'type': 'minecraft:tropical_fish', 'nbt': '{Variant:67699456}'}}]}}
+fish15    {'trigger': 'minecraft:player_interacted_with_entity', 'conditions': {'item': {'items': ['minecraft:water_bucket']}, 'entity': [{'condition': 'minecraft:entity_properties', 'entity': 'this', 'predicate': {'type': 'minecraft:tropical_fish', 'nbt': '{Variant:117441793}'}}]}}
+fish16    {'trigger': 'minecraft:player_interacted_with_entity', 'conditions': {'item': {'items': ['minecraft:water_bucket']}, 'entity': [{'condition': 'minecraft:entity_properties', 'entity': 'this', 'predicate': {'type': 'minecraft:tropical_fish', 'nbt': '{Variant:117506305}'}}]}}
+fish17    {'trigger': 'minecraft:player_interacted_with_entity', 'conditions': {'item': {'items': ['minecraft:water_bucket']}, 'entity': [{'condition': 'minecraft:entity_properties', 'entity': 'this', 'predicate': {'type': 'minecraft:tropical_fish', 'nbt': '{Variant:117899265}'}}]}}
+fish18    {'trigger': 'minecraft:player_interacted_with_entity', 'conditions': {'item': {'items': ['minecraft:water_bucket']}, 'entity': [{'condition': 'minecraft:entity_properties', 'entity': 'this', 'predicate': {'type': 'minecraft:tropical_fish', 'nbt': '{Variant:118161664}'}}]}}
+fish19    {'trigger': 'minecraft:player_interacted_with_entity', 'conditions': {'item': {'items': ['minecraft:water_bucket']}, 'entity': [{'condition': 'minecraft:entity_properties', 'entity': 'this', 'predicate': {'type': 'minecraft:tropical_fish', 'nbt': '{Variant:459008}'}}]}}
+fish20    {'trigger': 'minecraft:player_interacted_with_entity', 'conditions': {'item': {'items': ['minecraft:water_bucket']}, 'entity': [{'condition': 'minecraft:entity_properties', 'entity': 'this', 'predicate': {'type': 'minecraft:tropical_fish', 'nbt': '{Variant:185008129}'}}]}}
+fish21    {'trigger': 'minecraft:player_interacted_with_entity', 'conditions': {'item': {'items': ['minecraft:water_bucket']}, 'entity': [{'condition': 'minecraft:entity_properties', 'entity': 'this', 'predicate': {'type': 'minecraft:tropical_fish', 'nbt': '{Variant:234882305}'}}]}}
+fish22    {'trigger': 'minecraft:player_interacted_with_entity', 'conditions': {'item': {'items': ['minecraft:water_bucket']}, 'entity': [{'condition': 'minecraft:entity_properties', 'entity': 'this', 'predicate': {'type': 'minecraft:tropical_fish', 'nbt': '{Variant:235340288}'}}]}}
+
+=====WHERE'S THE HONEY LEBOWSKI (1)=====
+ten_withers    {'trigger': 'minecraft:impossible'}
+
+=====Free Diver (1)=====
+trigger    {'trigger': 'minecraft:impossible'}
+
+=====Sleep with the Fishes (1)=====
+trigger    {'trigger': 'minecraft:impossible'}
+
+*=====Over-Overkill (1)=====
+overkill    {'trigger': 'minecraft:player_hurt_entity', 'conditions': {'damage': {'dealt': {'min': 32.0, 'max': 999.0}, 'type': {'tags': [{'id': 'minecraft:player_attack', 'expected': True}]}}, 'player': [{'condition': 'minecraft:inverted', 'term': {'condition': 'minecraft:entity_properties', 'entity': 'this', 'predicate': {'equipment': {'mainhand': {'items': 'minecraft:mace'}}}}}]}}
+
+=====Zeus (1)=====
+power    {'trigger': 'minecraft:inventory_changed', 'conditions': {'items': [{'items': ['minecraft:trident'], 'predicates': {'enchantments': [{'enchantments': 'minecraft:channeling'}]}}]}}
+
+=====A Wizard's Breakfast (1)=====
+event_horizon    {'trigger': 'minecraft:impossible'}
+
+=====Dogfight (1)=====
+skeleton    {'trigger': 'minecraft:player_killed_entity', 'conditions': {'entity': {'type': ['skeleton', 'stray', 'bogged'], 'effects': {'minecraft:levitation': {'amplifier': {'min': 0}}}}, 'player': [{'condition': 'minecraft:entity_properties', 'entity': 'this', 'predicate': {'effects': {'minecraft:levitation': {'amplifier': {'min': 0}}}}}]}}
+
+=====Off With His Head! (1)=====
+chorus_fruit    {'trigger': 'minecraft:inventory_changed', 'conditions': {'items': [{'items': ['minecraft:dragon_head']}]}}
+
+=====Unstoppable Force vs Immovable Object (1)=====
+from_under_your_feet    {'trigger': 'minecraft:player_hurt_entity', 'conditions': {'entity': {'type': 'minecraft:shulker'}, 'damage': {'type': {'tags': [{'id': 'minecraft:is_projectile', 'expected': True}], 'direct_entity': {'type': 'minecraft:wind_charge'}}}}}
+
+=====You're doing it wrong (1)=====
+ghast    {'trigger': 'minecraft:player_killed_entity', 'conditions': {'killing_blow': {'source_entity': {'equipment': {'mainhand': {'items': 'minecraft:mace'}}, 'effects': {'minecraft:levitation': {'amplifier': {'min': 0}}}}, 'tags': [{'id': 'minecraft:player_attack', 'expected': True}]}}}
+
+=====Full Stomach (1)=====
+ten_withers    {'trigger': 'minecraft:impossible'}
+
+=====Must be your birthday (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'stats': [{'type': 'minecraft:custom', 'stat': 'minecraft:eat_cake_slice', 'value': {'min': 100}}]}}}}
+
+*=====Olaf (1)=====
+summoned    {'trigger': 'minecraft:summoned_entity', 'conditions': {'entity': {'type': 'minecraft:snow_golem'}}}
+
+=====Bulldozer (1)=====
+mine_nether_gold_ore    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'stats': [{'type': 'minecraft:mined', 'stat': 'minecraft:stone', 'value': {'min': 10000}}]}}}}
+
+=====Grate Expectations (1)=====
+cut_copper    {'trigger': 'minecraft:inventory_changed', 'conditions': {'items': [{'items': ['minecraft:copper_grate', 'minecraft:exposed_copper_grate', 'minecraft:weathered_copper_grate', 'minecraft:oxidized_copper_grate', 'minecraft:waxed_copper_grate', 'minecraft:waxed_exposed_copper_grate', 'minecraft:waxed_weathered_copper_grate', 'minecraft:waxed_oxidized_copper_grate']}]}}
+
+=====Maximum Resistance (1)=====
+phantom    {'trigger': 'minecraft:entity_hurt_player', 'conditions': {'damage': {'blocked': False, 'source_entity': {'type': 'warden'}}, 'player': [{'condition': 'minecraft:entity_properties', 'entity': 'this', 'predicate': {'equipment': {'head': {'items': ['minecraft:netherite_helmet'], 'predicates': {'enchantments': [{'enchantments': 'minecraft:protection', 'levels': {'min': 4}}]}}, 'chest': {'items': ['minecraft:netherite_chestplate'], 'predicates': {'enchantments': [{'enchantments': 'minecraft:protection', 'levels': {'min': 4}}]}}, 'legs': {'items': ['minecraft:netherite_leggings'], 'predicates': {'enchantments': [{'enchantments': 'minecraft:protection', 'levels': {'min': 4}}]}}, 'feet': {'items': ['minecraft:netherite_boots'], 'predicates': {'enchantments': [{'enchantments': 'minecraft:protection', 'levels': {'min': 4}}]}}}, 'effects': {'minecraft:resistance': {'amplifier': {'min': 3}}}}}]}}
+
+*=====Poisonous Ew (1)=====
+spider    {'trigger': 'minecraft:player_killed_entity', 'conditions': {'entity': {'type': 'cave_spider'}}}
+
+=====Inception (1)=====
+enter_cave    {'trigger': 'minecraft:location', 'conditions': {'player': [{'condition': 'minecraft:entity_properties', 'entity': 'this', 'predicate': {'location': {'block': {'blocks': '#minecraft:non_underwater_blocks'}, 'position': {'y': {'min': 127, 'max': 127.9999}}, 'dimension': 'the_nether'}}}, {'condition': 'minecraft:inverted', 'term': {'condition': 'minecraft:entity_properties', 'entity': 'this', 'predicate': {'type_specific': {'type': 'player', 'gamemode': ['spectator']}}}}]}}
+
+=====Light Show (1)=====
+pale_moss_block    {'trigger': 'minecraft:placed_block', 'conditions': {'location': [{'condition': 'minecraft:location_check', 'predicate': {'block': {'blocks': ['minecraft:white_stained_glass', 'minecraft:light_gray_stained_glass', 'minecraft:gray_stained_glass', 'minecraft:black_stained_glass', 'minecraft:brown_stained_glass', 'minecraft:red_stained_glass', 'minecraft:orange_stained_glass', 'minecraft:yellow_stained_glass', 'minecraft:lime_stained_glass', 'minecraft:green_stained_glass', 'minecraft:cyan_stained_glass', 'minecraft:light_blue_stained_glass', 'minecraft:blue_stained_glass', 'minecraft:purple_stained_glass', 'minecraft:magenta_stained_glass', 'minecraft:pink_stained_glass', 'minecraft:white_stained_glass_pane', 'minecraft:light_gray_stained_glass_pane', 'minecraft:gray_stained_glass_pane', 'minecraft:black_stained_glass_pane', 'minecraft:brown_stained_glass_pane', 'minecraft:red_stained_glass_pane', 'minecraft:orange_stained_glass_pane', 'minecraft:yellow_stained_glass_pane', 'minecraft:lime_stained_glass_pane', 'minecraft:green_stained_glass_pane', 'minecraft:cyan_stained_glass_pane', 'minecraft:light_blue_stained_glass_pane', 'minecraft:blue_stained_glass_pane', 'minecraft:purple_stained_glass_pane', 'minecraft:magenta_stained_glass_pane', 'minecraft:pink_stained_glass_pane']}}}, {'condition': 'minecraft:location_check', 'offsetY': -1, 'predicate': {'block': {'blocks': ['minecraft:beacon']}}}, {'condition': 'minecraft:inverted', 'term': {'condition': 'minecraft:location_check', 'offsetY': -1, 'predicate': {'block': {'blocks': ['minecraft:beacon'], 'nbt': '{Levels:0}'}}}}]}}
+
+=====Final Shout (1)===== (This one's kinda funny maybe you should leave it)
+creeper    {'trigger': 'minecraft:player_killed_entity', 'conditions': {'entity': [{'condition': 'minecraft:entity_properties', 'entity': 'this', 'predicate': {'effects': {'minecraft:wind_charged': {'amplifier': {'min': 0}}, 'minecraft:weaving': {'amplifier': {'min': 0}}, 'minecraft:oozing': {'amplifier': {'min': 0}}}}}]}}
+
+*=====Click! (1)=====
+oak_button    {'trigger': 'minecraft:default_block_use', 'conditions': {'location': [{'condition': 'minecraft:location_check', 'predicate': {'block': {'blocks': '#minecraft:buttons'}}}]}}
+
+=====Half Heart Life (1)=====
+trigger    {'trigger': 'minecraft:impossible'}
+
+=====Loser! (1)=====
+trigger    {'trigger': 'minecraft:impossible'}
+
+*=====Shield Luck (1)=====
+deflected_trident    {'trigger': 'minecraft:entity_hurt_player', 'conditions': {'damage': {'blocked': True}}}
+
+=====Spleaf (1)=====
+wooden_shovel    {'trigger': 'minecraft:player_killed_entity', 'conditions': {'entity': {'distance': {'absolute': {'max': 5}}, 'stepping_on': {'block': {'blocks': ['minecraft:big_dripleaf']}}}, 'killing_blow': {'source_entity': {'equipment': {'mainhand': {'items': '#minecraft:shovels'}}, 'stepping_on': {'block': {'blocks': ['minecraft:big_dripleaf']}}}, 'tags': [{'id': 'minecraft:player_attack', 'expected': True}]}}}
+
+=============================================================================================================================
+These advancements use minecraft: before their criteria name, breaking convention (they're all vanilla so that may be why)
+=============================================================================================================================
+
+=====Overpopulation (26)=====
+minecraft:horse    {'trigger': 'minecraft:bred_animals', 'conditions': {'child': {'type': 'minecraft:horse'}}}
+minecraft:sheep    {'trigger': 'minecraft:bred_animals', 'conditions': {'parent': {'type': 'minecraft:sheep'}}}
+minecraft:cow    {'trigger': 'minecraft:bred_animals', 'conditions': {'parent': {'type': 'minecraft:cow'}}}
+minecraft:mooshroom    {'trigger': 'minecraft:bred_animals', 'conditions': {'parent': {'type': 'minecraft:mooshroom'}}}
+minecraft:pig    {'trigger': 'minecraft:bred_animals', 'conditions': {'parent': {'type': 'minecraft:pig'}}}
+minecraft:chicken    {'trigger': 'minecraft:bred_animals', 'conditions': {'parent': {'type': 'minecraft:chicken'}}}
+minecraft:wolf    {'trigger': 'minecraft:bred_animals', 'conditions': {'parent': {'type': 'minecraft:wolf'}}}
+minecraft:ocelot    {'trigger': 'minecraft:bred_animals', 'conditions': {'parent': {'type': 'minecraft:ocelot'}}}
+minecraft:rabbit    {'trigger': 'minecraft:bred_animals', 'conditions': {'parent': {'type': 'minecraft:rabbit'}}}
+minecraft:llama    {'trigger': 'minecraft:bred_animals', 'conditions': {'parent': {'type': 'minecraft:llama'}}}
+minecraft:turtle    {'trigger': 'minecraft:bred_animals', 'conditions': {'parent': {'type': 'minecraft:turtle'}}}
+minecraft:cat    {'trigger': 'minecraft:bred_animals', 'conditions': {'parent': {'type': 'minecraft:cat'}}}
+minecraft:panda    {'trigger': 'minecraft:bred_animals', 'conditions': {'parent': {'type': 'minecraft:panda'}}}
+minecraft:fox    {'trigger': 'minecraft:bred_animals', 'conditions': {'parent': {'type': 'minecraft:fox'}}}
+minecraft:bee    {'trigger': 'minecraft:bred_animals', 'conditions': {'parent': {'type': 'minecraft:bee'}}}
+minecraft:hoglin    {'trigger': 'minecraft:bred_animals', 'conditions': {'parent': {'type': 'minecraft:hoglin'}}}
+minecraft:strider    {'trigger': 'minecraft:bred_animals', 'conditions': {'parent': {'type': 'minecraft:strider'}}}
+minecraft:axolotl    {'trigger': 'minecraft:bred_animals', 'conditions': {'parent': {'type': 'minecraft:axolotl'}}}
+minecraft:goat    {'trigger': 'minecraft:bred_animals', 'conditions': {'parent': {'type': 'minecraft:goat'}}}
+minecraft:trader_llama    {'trigger': 'minecraft:bred_animals', 'conditions': {'parent': {'type': 'minecraft:trader_llama'}}}
+minecraft:donkey    {'trigger': 'minecraft:bred_animals', 'conditions': {'child': {'type': 'minecraft:donkey'}}}
+minecraft:mule    {'trigger': 'minecraft:bred_animals', 'conditions': {'child': {'type': 'minecraft:mule'}}}
+minecraft:frog    {'trigger': 'minecraft:bred_animals', 'conditions': {'parent': {'type': 'minecraft:frog'}}}
+minecraft:camel    {'trigger': 'minecraft:bred_animals', 'conditions': {'parent': {'type': 'minecraft:camel'}}}
+minecraft:sniffer    {'trigger': 'minecraft:bred_animals', 'conditions': {'parent': {'type': 'minecraft:sniffer'}}}
+minecraft:armadillo    {'trigger': 'minecraft:bred_animals', 'conditions': {'parent': {'type': 'minecraft:armadillo'}}}
+
+=====A Complete Catalogue (11)=====
+minecraft:black    {'trigger': 'minecraft:tame_animal', 'conditions': {'entity': [{'condition': 'minecraft:entity_properties', 'predicate': {'components': {'minecraft:cat/variant': 'minecraft:black'}}, 'entity': 'this'}]}}
+minecraft:tabby    {'trigger': 'minecraft:tame_animal', 'conditions': {'entity': [{'condition': 'minecraft:entity_properties', 'predicate': {'components': {'minecraft:cat/variant': 'minecraft:tabby'}}, 'entity': 'this'}]}}
+minecraft:ragdoll    {'trigger': 'minecraft:tame_animal', 'conditions': {'entity': [{'condition': 'minecraft:entity_properties', 'predicate': {'components': {'minecraft:cat/variant': 'minecraft:ragdoll'}}, 'entity': 'this'}]}}
+minecraft:british_shorthair    {'trigger': 'minecraft:tame_animal', 'conditions': {'entity': [{'condition': 'minecraft:entity_properties', 'predicate': {'components': {'minecraft:cat/variant': 'minecraft:british_shorthair'}}, 'entity': 'this'}]}}
+minecraft:white    {'trigger': 'minecraft:tame_animal', 'conditions': {'entity': [{'condition': 'minecraft:entity_properties', 'predicate': {'components': {'minecraft:cat/variant': 'minecraft:white'}}, 'entity': 'this'}]}}
+minecraft:persian    {'trigger': 'minecraft:tame_animal', 'conditions': {'entity': [{'condition': 'minecraft:entity_properties', 'predicate': {'components': {'minecraft:cat/variant': 'minecraft:persian'}}, 'entity': 'this'}]}}
+minecraft:calico    {'trigger': 'minecraft:tame_animal', 'conditions': {'entity': [{'condition': 'minecraft:entity_properties', 'predicate': {'components': {'minecraft:cat/variant': 'minecraft:calico'}}, 'entity': 'this'}]}}
+minecraft:siamese    {'trigger': 'minecraft:tame_animal', 'conditions': {'entity': [{'condition': 'minecraft:entity_properties', 'predicate': {'components': {'minecraft:cat/variant': 'minecraft:siamese'}}, 'entity': 'this'}]}}
+minecraft:all_black    {'trigger': 'minecraft:tame_animal', 'conditions': {'entity': [{'condition': 'minecraft:entity_properties', 'predicate': {'components': {'minecraft:cat/variant': 'minecraft:all_black'}}, 'entity': 'this'}]}}
+minecraft:jellie    {'trigger': 'minecraft:tame_animal', 'conditions': {'entity': [{'condition': 'minecraft:entity_properties', 'predicate': {'components': {'minecraft:cat/variant': 'minecraft:jellie'}}, 'entity': 'this'}]}}
+minecraft:red    {'trigger': 'minecraft:tame_animal', 'conditions': {'entity': [{'condition': 'minecraft:entity_properties', 'predicate': {'components': {'minecraft:cat/variant': 'minecraft:red'}}, 'entity': 'this'}]}}
+
+=====Wax On (37)=====
+minecraft:waxed_copper_block_from_honeycomb    {'trigger': 'minecraft:recipe_crafted', 'conditions': {'recipe_id': 'minecraft:waxed_copper_block_from_honeycomb'}}
+minecraft:waxed_exposed_copper_from_honeycomb    {'trigger': 'minecraft:recipe_crafted', 'conditions': {'recipe_id': 'minecraft:waxed_exposed_copper_from_honeycomb'}}
+minecraft:waxed_weathered_copper_from_honeycomb    {'trigger': 'minecraft:recipe_crafted', 'conditions': {'recipe_id': 'minecraft:waxed_weathered_copper_from_honeycomb'}}
+minecraft:waxed_oxidized_copper_from_honeycomb    {'trigger': 'minecraft:recipe_crafted', 'conditions': {'recipe_id': 'minecraft:waxed_oxidized_copper_from_honeycomb'}}
+minecraft:waxed_cut_copper_from_honeycomb    {'trigger': 'minecraft:recipe_crafted', 'conditions': {'recipe_id': 'minecraft:waxed_cut_copper_from_honeycomb'}}
+minecraft:waxed_exposed_cut_copper_from_honeycomb    {'trigger': 'minecraft:recipe_crafted', 'conditions': {'recipe_id': 'minecraft:waxed_exposed_cut_copper_from_honeycomb'}}
+minecraft:waxed_weathered_cut_copper_from_honeycomb    {'trigger': 'minecraft:recipe_crafted', 'conditions': {'recipe_id': 'minecraft:waxed_weathered_cut_copper_from_honeycomb'}}
+minecraft:waxed_oxidized_cut_copper_from_honeycomb    {'trigger': 'minecraft:recipe_crafted', 'conditions': {'recipe_id': 'minecraft:waxed_oxidized_cut_copper_from_honeycomb'}}
+minecraft:waxed_cut_copper_slab_from_honeycomb    {'trigger': 'minecraft:recipe_crafted', 'conditions': {'recipe_id': 'minecraft:waxed_cut_copper_slab_from_honeycomb'}}
+minecraft:waxed_exposed_cut_copper_slab_from_honeycomb    {'trigger': 'minecraft:recipe_crafted', 'conditions': {'recipe_id': 'minecraft:waxed_exposed_cut_copper_slab_from_honeycomb'}}
+minecraft:waxed_weathered_cut_copper_slab_from_honeycomb    {'trigger': 'minecraft:recipe_crafted', 'conditions': {'recipe_id': 'minecraft:waxed_weathered_cut_copper_slab_from_honeycomb'}}
+minecraft:waxed_oxidized_cut_copper_slab_from_honeycomb    {'trigger': 'minecraft:recipe_crafted', 'conditions': {'recipe_id': 'minecraft:waxed_oxidized_cut_copper_slab_from_honeycomb'}}
+minecraft:waxed_cut_copper_stairs_from_honeycomb    {'trigger': 'minecraft:recipe_crafted', 'conditions': {'recipe_id': 'minecraft:waxed_cut_copper_stairs_from_honeycomb'}}
+minecraft:waxed_exposed_cut_copper_stairs_from_honeycomb    {'trigger': 'minecraft:recipe_crafted', 'conditions': {'recipe_id': 'minecraft:waxed_exposed_cut_copper_stairs_from_honeycomb'}}
+minecraft:waxed_weathered_cut_copper_stairs_from_honeycomb    {'trigger': 'minecraft:recipe_crafted', 'conditions': {'recipe_id': 'minecraft:waxed_weathered_cut_copper_stairs_from_honeycomb'}}
+minecraft:waxed_oxidized_cut_copper_stairs_from_honeycomb    {'trigger': 'minecraft:recipe_crafted', 'conditions': {'recipe_id': 'minecraft:waxed_oxidized_cut_copper_stairs_from_honeycomb'}}
+minecraft:waxed_chiseled_copper_from_honeycomb    {'trigger': 'minecraft:recipe_crafted', 'conditions': {'recipe_id': 'minecraft:waxed_chiseled_copper_from_honeycomb'}}
+minecraft:waxed_exposed_chiseled_copper_from_honeycomb    {'trigger': 'minecraft:recipe_crafted', 'conditions': {'recipe_id': 'minecraft:waxed_exposed_chiseled_copper_from_honeycomb'}}
+minecraft:waxed_weathered_chiseled_copper_from_honeycomb    {'trigger': 'minecraft:recipe_crafted', 'conditions': {'recipe_id': 'minecraft:waxed_weathered_chiseled_copper_from_honeycomb'}}
+minecraft:waxed_oxidized_chiseled_copper_from_honeycomb    {'trigger': 'minecraft:recipe_crafted', 'conditions': {'recipe_id': 'minecraft:waxed_oxidized_chiseled_copper_from_honeycomb'}}
+minecraft:waxed_copper_grate_from_honeycomb    {'trigger': 'minecraft:recipe_crafted', 'conditions': {'recipe_id': 'minecraft:waxed_copper_grate_from_honeycomb'}}
+minecraft:waxed_exposed_copper_grate_from_honeycomb    {'trigger': 'minecraft:recipe_crafted', 'conditions': {'recipe_id': 'minecraft:waxed_exposed_copper_grate_from_honeycomb'}}
+minecraft:waxed_weathered_copper_grate_from_honeycomb    {'trigger': 'minecraft:recipe_crafted', 'conditions': {'recipe_id': 'minecraft:waxed_weathered_copper_grate_from_honeycomb'}}
+minecraft:waxed_oxidized_copper_grate_from_honeycomb    {'trigger': 'minecraft:recipe_crafted', 'conditions': {'recipe_id': 'minecraft:waxed_oxidized_copper_grate_from_honeycomb'}}
+minecraft:waxed_copper_door_from_honeycomb    {'trigger': 'minecraft:recipe_crafted', 'conditions': {'recipe_id': 'minecraft:waxed_copper_door_from_honeycomb'}}
+minecraft:waxed_exposed_copper_door_from_honeycomb    {'trigger': 'minecraft:recipe_crafted', 'conditions': {'recipe_id': 'minecraft:waxed_exposed_copper_door_from_honeycomb'}}
+minecraft:waxed_weathered_copper_door_from_honeycomb    {'trigger': 'minecraft:recipe_crafted', 'conditions': {'recipe_id': 'minecraft:waxed_weathered_copper_door_from_honeycomb'}}
+minecraft:waxed_oxidized_copper_door_from_honeycomb    {'trigger': 'minecraft:recipe_crafted', 'conditions': {'recipe_id': 'minecraft:waxed_oxidized_copper_door_from_honeycomb'}}
+minecraft:waxed_copper_trapdoor_from_honeycomb    {'trigger': 'minecraft:recipe_crafted', 'conditions': {'recipe_id': 'minecraft:waxed_copper_trapdoor_from_honeycomb'}}
+minecraft:waxed_exposed_copper_trapdoor_from_honeycomb    {'trigger': 'minecraft:recipe_crafted', 'conditions': {'recipe_id': 'minecraft:waxed_exposed_copper_trapdoor_from_honeycomb'}}
+minecraft:waxed_weathered_copper_trapdoor_from_honeycomb    {'trigger': 'minecraft:recipe_crafted', 'conditions': {'recipe_id': 'minecraft:waxed_weathered_copper_trapdoor_from_honeycomb'}}
+minecraft:waxed_oxidized_copper_trapdoor_from_honeycomb    {'trigger': 'minecraft:recipe_crafted', 'conditions': {'recipe_id': 'minecraft:waxed_oxidized_copper_trapdoor_from_honeycomb'}}
+minecraft:waxed_copper_bulb_from_honeycomb    {'trigger': 'minecraft:recipe_crafted', 'conditions': {'recipe_id': 'minecraft:waxed_copper_bulb_from_honeycomb'}}
+minecraft:waxed_exposed_copper_bulb_from_honeycomb    {'trigger': 'minecraft:recipe_crafted', 'conditions': {'recipe_id': 'minecraft:waxed_exposed_copper_bulb_from_honeycomb'}}
+minecraft:waxed_weathered_copper_bulb_from_honeycomb    {'trigger': 'minecraft:recipe_crafted', 'conditions': {'recipe_id': 'minecraft:waxed_weathered_copper_bulb_from_honeycomb'}}
+minecraft:waxed_oxidized_copper_bulb_from_honeycomb    {'trigger': 'minecraft:recipe_crafted', 'conditions': {'recipe_id': 'minecraft:waxed_oxidized_copper_bulb_from_honeycomb'}}
+directly_wax_block    {'trigger': 'minecraft:item_used_on_block', 'conditions': {'location': [{'condition': 'minecraft:location_check', 'predicate': {'block': {'blocks': '#blazeandcave:waxed_copper_blocks'}}}, {'condition': 'minecraft:match_tool', 'predicate': {'items': ['minecraft:honeycomb']}}]}}
+
+=====The Whole Pack (9)=====
+minecraft:ashen    {'trigger': 'minecraft:tame_animal', 'conditions': {'entity': [{'condition': 'minecraft:entity_properties', 'entity': 'this', 'predicate': {'components': {'minecraft:wolf/variant': 'minecraft:ashen'}}}]}}
+minecraft:black    {'trigger': 'minecraft:tame_animal', 'conditions': {'entity': [{'condition': 'minecraft:entity_properties', 'entity': 'this', 'predicate': {'components': {'minecraft:wolf/variant': 'minecraft:black'}}}]}}
+minecraft:chestnut    {'trigger': 'minecraft:tame_animal', 'conditions': {'entity': [{'condition': 'minecraft:entity_properties', 'entity': 'this', 'predicate': {'components': {'minecraft:wolf/variant': 'minecraft:chestnut'}}}]}}
+minecraft:pale    {'trigger': 'minecraft:tame_animal', 'conditions': {'entity': [{'condition': 'minecraft:entity_properties', 'entity': 'this', 'predicate': {'components': {'minecraft:wolf/variant': 'minecraft:pale'}}}]}}
+minecraft:rusty    {'trigger': 'minecraft:tame_animal', 'conditions': {'entity': [{'condition': 'minecraft:entity_properties', 'entity': 'this', 'predicate': {'components': {'minecraft:wolf/variant': 'minecraft:rusty'}}}]}}
+minecraft:snowy    {'trigger': 'minecraft:tame_animal', 'conditions': {'entity': [{'condition': 'minecraft:entity_properties', 'entity': 'this', 'predicate': {'components': {'minecraft:wolf/variant': 'minecraft:snowy'}}}]}}
+minecraft:spotted    {'trigger': 'minecraft:tame_animal', 'conditions': {'entity': [{'condition': 'minecraft:entity_properties', 'entity': 'this', 'predicate': {'components': {'minecraft:wolf/variant': 'minecraft:spotted'}}}]}}
+minecraft:striped    {'trigger': 'minecraft:tame_animal', 'conditions': {'entity': [{'condition': 'minecraft:entity_properties', 'entity': 'this', 'predicate': {'components': {'minecraft:wolf/variant': 'minecraft:striped'}}}]}}
+minecraft:woods    {'trigger': 'minecraft:tame_animal', 'conditions': {'entity': [{'condition': 'minecraft:entity_properties', 'entity': 'this', 'predicate': {'components': {'minecraft:wolf/variant': 'minecraft:woods'}}}]}}
+
+===========================================================================
+And the entire statistics tab except the root has unnamed criteria
+===========================================================================
+
+=====65 hours of walking (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'stats': [{'type': 'minecraft:custom', 'stat': 'minecraft:walk_one_cm', 'value': {'min': 100000000}}]}}}}
+
+=====Ancient Kung Fu Master (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'stats': [{'type': 'minecraft:custom', 'stat': 'minecraft:crouch_one_cm', 'value': {'min': 1000000}}]}}}}
+
+=====Big Blimp Enthusiast (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'stats': [{'type': 'minecraft:custom', 'stat': 'minecraft:happy_ghast_one_cm', 'value': {'min': 1000000}}]}}}}
+
+=====Big Spender (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'stats': [{'type': 'minecraft:custom', 'stat': 'minecraft:traded_with_villager', 'value': {'min': 500}}]}}}}
+
+=====Black Belt Ninja (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'stats': [{'type': 'minecraft:custom', 'stat': 'minecraft:crouch_one_cm', 'value': {'min': 100000}}]}}}}
+
+=====Bloodthirsty (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'stats': [{'type': 'minecraft:custom', 'stat': 'minecraft:mob_kills', 'value': {'min': 2500}}]}}}}
+
+=====Boing, Boing (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'stats': [{'type': 'minecraft:custom', 'stat': 'minecraft:jump', 'value': {'min': 10000}}]}}}}
+
+=====Cupid (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'stats': [{'type': 'minecraft:custom', 'stat': 'minecraft:animals_bred', 'value': {'min': 500}}]}}}}
+
+=====Elderly Enchanter (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'stats': [{'type': 'minecraft:custom', 'stat': 'minecraft:enchant_item', 'value': {'min': 250}}]}}}}
+
+=====Food, Glorious Food! (1)=====
+trigger    {'trigger': 'minecraft:impossible'}
+
+=====Frequent Flyer (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'stats': [{'type': 'minecraft:custom', 'stat': 'minecraft:aviate_one_cm', 'value': {'min': 100000000}}]}}}}
+
+=====Giga XP Grinder (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'level': {'min': 1000}}}}}
+
+=====Global Railway Network (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'stats': [{'type': 'minecraft:custom', 'stat': 'minecraft:minecart_one_cm', 'value': {'min': 5000000}}]}}}}
+
+=====Happy New Year! (1)=====
+trigger    {'trigger': 'minecraft:impossible'}
+
+=====Horse Training (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'stats': [{'type': 'minecraft:custom', 'stat': 'minecraft:horse_one_cm', 'value': {'min': 100000}}]}}}}
+
+=====I <3 Chests (1)=====
+trigger    {'trigger': 'minecraft:impossible'}
+
+=====I Like Trains (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'stats': [{'type': 'minecraft:custom', 'stat': 'minecraft:minecart_one_cm', 'value': {'min': 1000000}}]}}}}
+
+=====Journeyman Enchanter (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'stats': [{'type': 'minecraft:custom', 'stat': 'minecraft:enchant_item', 'value': {'min': 50}}]}}}}
+
+=====Jumping Jacks (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'stats': [{'type': 'minecraft:custom', 'stat': 'minecraft:jump', 'value': {'min': 100000}}]}}}}
+
+=====Kill or be Killed (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'stats': [{'type': 'minecraft:custom', 'stat': 'minecraft:mob_kills', 'value': {'min': 25000}}]}}}}
+
+=====Laps in the pool (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'stats': [{'type': 'minecraft:custom', 'stat': 'minecraft:swim_one_cm', 'value': {'min': 100000}}]}}}}
+
+=====Level Up (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'level': {'min': 30}}}}}
+
+=====Lightning McPig (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'stats': [{'type': 'minecraft:custom', 'stat': 'minecraft:pig_one_cm', 'value': {'min': 1000000}}]}}}}
+
+=====Loot 'Em! (1)=====
+trigger    {'trigger': 'minecraft:impossible'}
+
+=====Luxury Cruise (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'stats': [{'type': 'minecraft:custom', 'stat': 'minecraft:boat_one_cm', 'value': {'min': 100000}}]}}}}
+
+=====Marathon (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'stats': [{'type': 'minecraft:custom', 'stat': 'minecraft:sprint_one_cm', 'value': {'min': 4219500}}]}}}}
+
+=====Minecart Rider (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'stats': [{'type': 'minecraft:custom', 'stat': 'minecraft:minecart_one_cm', 'value': {'min': 100000}}]}}}}
+
+=====Mob Hunter (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'stats': [{'type': 'minecraft:custom', 'stat': 'minecraft:mob_kills', 'value': {'min': 250}}]}}}}
+
+=====More For Me (1)=====
+trigger    {'trigger': 'minecraft:impossible'}
+
+=====Natural Sprinter (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'stats': [{'type': 'minecraft:custom', 'stat': 'minecraft:sprint_one_cm', 'value': {'min': 1000000}}]}}}}
+
+=====Novice Enchanter (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'stats': [{'type': 'minecraft:custom', 'stat': 'minecraft:enchant_item', 'value': {'min': 10}}]}}}}
+
+=====Olympic Athlete (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'stats': [{'type': 'minecraft:custom', 'stat': 'minecraft:swim_one_cm', 'value': {'min': 1000000}}]}}}}
+
+=====Olympic Gold Medallist (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'stats': [{'type': 'minecraft:custom', 'stat': 'minecraft:swim_one_cm', 'value': {'min': 5000000}}]}}}}
+
+=====Om Nom Nom (1)=====
+trigger    {'trigger': 'minecraft:impossible'}
+
+=====Out for a stroll (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'stats': [{'type': 'minecraft:custom', 'stat': 'minecraft:walk_one_cm', 'value': {'min': 1000000}}]}}}}
+
+=====Overlevelling (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'level': {'min': 100}}}}}
+
+=====Passing the Time (1)=====
+trigger    {'trigger': 'minecraft:impossible'}
+
+=====Pig Training (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'stats': [{'type': 'minecraft:custom', 'stat': 'minecraft:pig_one_cm', 'value': {'min': 10000}}]}}}}
+
+=====Pirate Captain (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'stats': [{'type': 'minecraft:custom', 'stat': 'minecraft:boat_one_cm', 'value': {'min': 1000000}}]}}}}
+
+=====Sailor of the Seven Seas (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'stats': [{'type': 'minecraft:custom', 'stat': 'minecraft:boat_one_cm', 'value': {'min': 5000000}}]}}}}
+
+=====Scourge of the West (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'stats': [{'type': 'minecraft:custom', 'stat': 'minecraft:horse_one_cm', 'value': {'min': 5000000}}]}}}}
+
+=====Sheriff Firearm (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'stats': [{'type': 'minecraft:custom', 'stat': 'minecraft:horse_one_cm', 'value': {'min': 1000000}}]}}}}
+
+=====Sneaky Snitch (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'stats': [{'type': 'minecraft:custom', 'stat': 'minecraft:crouch_one_cm', 'value': {'min': 10000}}]}}}}
+
+=====Snout 500 (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'stats': [{'type': 'minecraft:custom', 'stat': 'minecraft:pig_one_cm', 'value': {'min': 100000}}]}}}}
+
+=====Spring in your step (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'stats': [{'type': 'minecraft:custom', 'stat': 'minecraft:jump', 'value': {'min': 1000}}]}}}}
+
+=====STONKS! (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'stats': [{'type': 'minecraft:custom', 'stat': 'minecraft:traded_with_villager', 'value': {'min': 2500}}]}}}}
+
+=====Supersonic (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'stats': [{'type': 'minecraft:custom', 'stat': 'minecraft:aviate_one_cm', 'value': {'min': 10000000}}]}}}}
+
+=====Take to the Skies (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'stats': [{'type': 'minecraft:custom', 'stat': 'minecraft:aviate_one_cm', 'value': {'min': 1000000}}]}}}}
+
+=====Taking It In Stride (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'stats': [{'type': 'minecraft:custom', 'stat': 'minecraft:strider_one_cm', 'value': {'min': 10000}}]}}}}
+
+=====Test Flight (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'stats': [{'type': 'minecraft:custom', 'stat': 'minecraft:happy_ghast_one_cm', 'value': {'min': 10000}}]}}}}
+
+=====The First Night (1)=====
+trigger    {'trigger': 'minecraft:impossible'}
+
+=====The Haggler (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'stats': [{'type': 'minecraft:custom', 'stat': 'minecraft:traded_with_villager', 'value': {'min': 100}}]}}}}
+
+=====The Parrots and the Bats (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'stats': [{'type': 'minecraft:custom', 'stat': 'minecraft:animals_bred', 'value': {'min': 100}}]}}}}
+
+=====This Ride Is Lit, Yo! (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'stats': [{'type': 'minecraft:custom', 'stat': 'minecraft:strider_one_cm', 'value': {'min': 1000000}}]}}}}
+
+=====Two By Two (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'stats': [{'type': 'minecraft:custom', 'stat': 'minecraft:animals_bred', 'value': {'min': 2500}}]}}}}
+
+=====Who Needs Boats? (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'stats': [{'type': 'minecraft:custom', 'stat': 'minecraft:strider_one_cm', 'value': {'min': 100000}}]}}}}
+
+=====Who needs cars? (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'stats': [{'type': 'minecraft:custom', 'stat': 'minecraft:walk_one_cm', 'value': {'min': 5000000}}]}}}}
+
+=====Who Needs Elytra? (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'stats': [{'type': 'minecraft:custom', 'stat': 'minecraft:happy_ghast_one_cm', 'value': {'min': 100000}}]}}}}
+
+=====XP Grinder (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'level': {'min': 300}}}}}
+
+=====Your legs must be tired (1)=====
+trigger    {'trigger': 'minecraft:location', 'conditions': {'player': {'type_specific': {'type': 'player', 'stats': [{'type': 'minecraft:custom', 'stat': 'minecraft:sprint_one_cm', 'value': {'min': 25000000}}]}}}}
+
+=====Yum Yum Yummo (1)=====
+trigger    {'trigger': 'minecraft:impossible'}
+
+
+Any advancement with 'trigger' or 'impossible'
+
+

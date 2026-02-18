@@ -1,0 +1,1349 @@
+BlazeandCave's Advancements Pack	Loads of brand new advancements for your Minecraft world!
+Getting Wood	Attack a tree until a block of wood pops out
+Benchmarking	Construct a crafting bench with four wooden planks
+Time to Mine!	Use planks and sticks to make a pickaxe
+Time to Strike!	Use planks and sticks to make a sword
+Time to Chop!	Use planks and sticks to make an axe
+Time to Dig!	Use planks and sticks to make a shovel
+Time to Farm!	Use planks and sticks to make a hoe
+Mining Milestone	Complete every advancement in the Mining tab
+Building Milestone	Complete every advancement in the Building tab
+Farming Milestone	Complete every advancement in the Farming tab
+Animal Milestone	Complete every advancement in the Animal tab
+Monsters Milestone	Complete every advancement in the Monsters tab
+Weaponry Milestone	Complete every advancement in the Weaponry tab
+Biomes Milestone	Complete every advancement in the Biomes tab
+Adventure Milestone	Complete every advancement in the Adventure tab
+Redstone Milestone	Complete every advancement in the Redstone tab
+Enchanting Milestone	Complete every advancement in the Enchanting tab
+Statistics Milestone	Complete every advancement in the Statistics tab
+Nether Milestone	Complete every advancement in the Nether tab
+Potions Milestone	Complete every advancement in the Potions tab
+End Milestone	Complete every advancement in the End tab
+Super Challenges Milestone	Complete every advancement in the Super Challenges tab. Good luck with this one ;)
+Advancement Legend	Complete every single advancement in BlazeandCave's Advancements Pack
+Mining	Dig deep down, mine up ore
+Stone Age	Mine stone with your new pickaxe
+Spelunker	Discover every cave biome
+I yearned for the mines	Spend five in-game days below y-level 32
+This Dirt is Dirtier	Dig through some Rooted Dirt beneath an Azalea Tree so you can find a Lush Cave
+Leaflet Drop	Fall through a Big Dripleaf
+A Shiny Treat	Eat some Glow Berries
+Particle Fan	Obtain a Spore Blossom
+Moss Maker	Use Bone Meal on Moss to spread its wonderful lushness across hard blocks of stone
+Iggy	Obtain an Azalea
+Lush Hour	Obtain a stack of all lush-related blocks
+Heart of Darkness	Submerge yourself in complete darkness
+My work here is done	Get caught in a cave-in of gravel
+Nananananananana...	Accidentally hit a bat underground
+Blind as a Bat	Kill a Bat while under the blindness or darkness effect
+Pixel Perfect	Use a Spyglass to stare at a bat from at least 50 blocks away
+Meet The Flintstones	Dig up some flint from a patch of gravel
+Strike a Light	Craft Flint and Steel and use it to light the ground on fire
+Flint Miner	Mine a stack of flint
+Bonfire Night	Light every flammable block on fire
+Dungeons and Spawners	Open a chest in a dungeon deep underground
+This is Mine Now!	Find an abandoned mineshaft that was not dug out by you
+Gold Mine!	Find a mineshaft on the surface of a mesa biome
+Eeuuwww!	Get stuck in a cobweb
+Steals on Wheels	Loot a minecart chest from an Abandoned Mineshaft
+Lichen Subscribe	Use shears to obtain Glow Lichen from an underground cave
+That's the point!	Obtain some Pointed Dripstone from a Dripstone Cave
+Dripstone Drop	Survive a fall of at least 10 blocks onto some Pointed Dripstone
+Lucky Break	Survive a long fall with just a sliver of health remaining
+Caves & Cliffs	Free fall from the top of the world (build limit) to the bottom of the world and survive
+Deep Slate Nine	Mine deep enough that the stone darkens
+Rock Bottom	Dig down to the bottom of the world
+Bottom to Top	Place every cave block at the very top of the world
+Sneak 100	Sneak near something in the Deep Dark to prevent being heard
+It spreads!	Kill a mob near a Sculk Catalyst
+Shriek Forever After	Trigger a Sculk Shrieker in the Deep Dark. Might not want to do that too many more times…
+Fallen Kingdom	Find and enter an Ancient City deep underground
+Frigid Diversions	Loot a chest inside an ice box in an Ancient City
+Death Pointer	Using Echo Shards found in Ancient Cities, craft a Recovery Compass
+9 to 5	Collect enough Disc Fragments to craft another producer of mysterious sounds
+Echonomy	Collect a stack of Echo Shards
+Getting an Upgrade	Construct a better pickaxe
+MOAR Tools	Craft a stone pickaxe, axe, shovel and hoe
+Aww it broke!	Break your first tool
+Chestful of Cobblestone	Mine 1728 cobblestone, place it in a chest, then stand on it in victory
+Bulldozer	Destroy a total of 10,000 blocks of stone
+Fossil Fuel	Coal! As in dead dinosaurs!
+Coal Miner	Mine a stack of coal
+Master Coal Miner	Mine enough coal to make a stack of coal blocks
+Hot Topic	Construct a furnace out of eight stone blocks
+Renewable Energy	Smelt wood trunks using charcoal to make more charcoal
+Smokin' Hot	Upgrade your furnace to a smoker using some logs
+Coppers and Robbers	Smelt a Copper Ingot
+Copper Age	Craft a slightly better pickaxe
+Copper Miner	Mine a stack of Raw Copper
+Copper Golem Overlord	Wear a full suit of Copper Armour while surrounded by at least ten living Copper Golems
+Master Copper Miner	Mine enough copper to make a stack of Copper Blocks
+Budget Channeling	Craft a Lightning Rod using Copper Ingots
+Surge Protector	Protect a villager from an undesired shock without starting a fire
+Called Shot	Get struck by lightning while standing on a Lightning Rod
+Conductive Conglomerate	Collect a stack of every oxidizing stage of Lightning Rods, including all of their waxed variants
+Beep Bop	Build a Copper Golem
+Wax Treatment	Apply Honeycomb to a Copper Golem to stop it from oxidizing
+Total Copout	Smash a living Copper Golem into scrap
+The Statue of Liberty	Have a Copper Golem fully oxidize into a statue, then mine it
+Such a poser	Cycle a Copper Golem Statue through all its poses
+Statue of Limitations	Collect a stack of every oxidizing stage of Copper Golem Statues, including all of their waxed variants
+Don’t Come a Copper!	Craft some Cut Copper
+Grate Expectations	Craft or obtain a Copper Grate
+Wax On	Use Honeycombs to wax a Copper Block, preventing it from oxidising
+Wax Off	Use an axe to scrape wax off of a Copper Block
+D. B. Copper	Collect a stack of every oxidizing stage of Copper Chests, including all of their waxed variants
+Life Sentence	Collect a stack of every oxidizing stage of Copper Bars, including all of their waxed variants
+Chain Gang	Collect a stack of every oxidizing stage of Copper Chains, including all of their waxed variants
+Gratest of All Time	Collect a stack of every oxidizing stage of Copper Grates, including all of their waxed variants
+Green Lanterns	Collect a stack of every oxidizing stage of Copper Lanterns, including all of their waxed variants
+Copper Computer	Collect a stack of every oxidizing stage of Copper Bulbs, including all of their waxed variants
+School of Hard Knocks	Collect a stack of every oxidizing stage of Copper Doors and Trapdoors, including all of their waxed variants
+Sly Copper: The Copper Heist	Collect a stack of every oxidizing stage of Copper Blocks, Chiseled Copper, and Cut Copper Blocks, Slabs and Stairs, including all of their waxed variants
+Acquire Hardware	Smelt an iron ingot
+Not Chicken McNuggets?	Craft or find iron nuggets
+Isn't It Iron Pick	Upgrade your pickaxe
+Suit Up	Protect yourself with a piece of iron armor
+Iron Man	Wear a full suit of iron armor
+Iron Miner	Mine a stack of Raw Iron
+Master Iron Miner	Mine enough iron to make a stack of iron blocks
+Gold Rush	Strike gold and smelt it into a gold ingot
+Living Like Kings	Make yourself shiny with golden armor
+The Mistake!	Put Mending on a piece of golden armor and realise what you are doing in life
+Gold Miner	Mine a stack of Raw Gold
+Master Gold Miner	Mine enough gold to make a stack of gold blocks
+Bling Bling Gone	Completely use up a golden pickaxe, and then seriously reevaluate your life choices
+We've broken our last shovel	Break every kind of shovel
+MOAR Broken Tools	Break every single tool and weapon in the game
+Where are all your clothes?	Break every type of armor piece in the game
+DIAM- oh, wait, no.	It's still useful for enchanting
+Lapis Lazuli Miner	Mine enough lapis lazuli to craft a stack of lapis lazuli blocks
+Seeing Red	Mine some redstone from the deepest caves
+The way to spawn	Craft a compass in case you forgot where spawn is
+Get a Lode Of This!	Craft a Lodestone using Chiseled Stone Bricks and an Iron Ingot
+Country Lode, Take Me Home	Use a Compass on a Lodestone
+Lodes of Applications	Create a Lodestone Compass in all three dimensions
+What's the time, Mr Wolf?	Time to clean your clocks! (Or, craft them!)
+Redstone Miner	Mine enough redstone to craft a stack of redstone blocks
+G.I. Geode	Find an Amethyst Geode and mine an Amethyst Cluster
+Good For Your Bones	Mine some Calcite encasing an Amethyst Geode
+Galileo Figaro	Zoom in on something using a Spyglass
+Blackout	Craft Tinted Glass using Glass and Amethyst Shards and use it to block out light
+Amethyst Miner	Mine a stack of Amethyst Blocks, Amethyst Clusters, and every size of Amethyst Bud
+Diamonds!	Acquire diamonds
+Iconic Merchandising Prop	Create a pickaxe of the highest calibre
+Stabcraft	Do you like my sword sword
+Even MOAR Tools	Craft a full diamond tools set
+Rest in Pickaxes	Break your first diamond pickaxe
+Cover Me With Diamonds	Diamond armor saves lives
+Diamond Clad	A full suit of diamond armor saves even more lives
+Diamond Miner	Mine a stack of diamonds. Good luck!
+Diamonds to you!	Throw diamonds at another player or mob
+Mineral Collection	Craft every type of mineral block
+Master Diamond Miner	Mine enough diamond to make a stack of diamond blocks
+Mr. Bean	Mine and craft a stack of Raw Iron, Copper and Gold Blocks
+Emerald Miner	Mine a stack of raw emerald ore
+Oresome!	Mine a stack of every ore block
+Hot Stuff	Fill a bucket with lava
+Ice Bucket Challenge	Form and mine a block of Obsidian
+Enchanter	Craft an enchanting table
+We Need to Go Deeper	Build, light and enter a Nether Portal
+Obsidian Miner	Mine a stack of obsidian. (This might take a while...)
+Building	Your only limit is your imagination... and resources
+Your Door Was Locked	Craft a door to stop monsters from entering your house
+Cut In Half	Craft some slabs
+Stairs? NOOOOO!	Craft some stairs
+Slabs For Days	Craft every type of slab
+Ah, My Old Enemy...	Craft every type of stairs
+Sweet dreams	Sleep in a bed to change your respawn point
+Change of Sheets	Dye your bed a different color than white
+Rainbow Dreams	Craft every color of bed
+Insomniac	Go 30 days without sleep
+Ladder Climbers Inc.	Climb the ladder!
+It's a Trap!	Craft and place down a trapdoor
+Aaaaaand... OPEN!	Craft and place an iron door
+En Garde	Erect some fencing
+The Walls	Build some cobblestone walls
+Crazy Walls	Craft every type of wall
+Stationary Storage	Craft and place down a chest for storing your items
+Barrel Rider	Craft and place a barrel. Totally not for riding in
+Writer's Block	Craft a lectern using wooden slabs and a bookshelf then place it
+Shelf Expression	Fill a Chiseled Bookshelf with books
+Shelfception	Put a Shelf on a Shelf
+Locked and Loaded	Swap your entire hotbar of items with a trio of powered Shelves
+It's a Sign!	Craft and place a sign
+Hanging Around	Put up a Hanging Sign
+Sign Off	Use honeycomb to wax a sign, setting its ink for eternity
+Colors of the Wind	Dye a sign with each color of dye
+Help! I've been framed!	Craft an item frame for displaying your items
+A Masterpiece!	Put up a painting
+Art Gallery	Place every type of painting
+Raise the flag!	Craft and place a banner
+Prepare to meet your Loom!	Craft a loom with string and planks for creating your own banners
+No Banner, Only Color!	Craft all 16 banner colors
+Fruit of the Looms	Obtain all the special banner patterns
+Torched!	Light up the area with some torches
+Camping Out	Craft and place a campfire using some logs, sticks and coal
+Delicious, Hot Schmoes!	Place every type of cookable food on a campfire
+Spawn Camping	Travel close to 0,0 coordinates and place down a campfire
+Halloween!	Light up the area with jack o'lanterns!
+One Pickle, Two Pickle, Sea Pickle, Four	Place four sea pickles in a group underwater
+Setting up the mood	Place a candle and light it using Flint and Steel
+The Ritual Begins	Get one stack of Black Candles
+Happy Birthday!	Place a candle on a cake
+Glowing!	Light up the area with glowstone
+Shroom Lightyear	Light up the area with Shroomlight!
+Cerulean!	Light up the area with soul fire torches and soul fire lanterns!
+Incandescent!	Light up the area with all three hues of Froglight
+Festival of Lights	Light up the area using a lantern
+Chartreuse!	Light up the area with Copper Torches and Copper Lanterns!
+Electric!	Light up the area with some redstone lamps
+Bulbous!	Light up the area with a Copper Bulb!
+Lighten Up	Scrape a Copper Bulb with an axe to make it brighter
+Expensive!	Light up the area with some sea lanterns
+Fluorescent!	Light up the area with some end rods
+Let There Be Light!	Hold a stack of every light-emitting block and item
+A Good Start	Chop down enough trees to collect a full stack of one log type
+Barking Mad	Craft a bark block
+Lost Its Bark	Strip a bark block of its bark
+Professor Oak	Craft every item made out of oak wood
+Spruce Lee	Craft every item made out of spruce wood
+Professor Birch	Craft every item made out of birch wood
+The Jungler	Craft every item made out of jungle wood
+Bamboozled	Craft every item made out of bamboo wood
+Mangrove Master	Craft every item made out of mangrove wood
+The Acacia King	Craft every item made out of acacia wood
+Professor Dark Oak	Craft every item made out of dark oak wood
+Pale Gardener	Craft every item made out of pale oak wood
+Cherry Bomb	Craft every item made out of cherry wood
+Yay! I got my wood!	Collect every type of log and stem
+Stripper	Strip the bark off every type of log, stem, and bamboo block
+Master Logger	Cut down a full stack of logs and stems of all types
+I don't like sand	It's coarse, and rough, and irritating, and it gets everywhere
+Pathways	Use a shovel to create dirt paths
+Grass Type	Obtain every type of grass block in your inventory
+Skyblock	Place a Grass Block high in the sky
+Classy Glassy	Smelt sand in a furnace to get glass
+What a pane	Craft some glass panes
+Translucence	Craft all 16 colors of stained glass
+Pane in the Glass	Craft a stack of all 16 colors of stained glass panes
+Stuck in the Mud	Use a Water Bottle on some Dirt to turn it into Mud
+Elmer Mudd	Craft or obtain all forms of Mud and Mud Brick
+Rainbow Sand	Craft concrete powder using sand, gravel and dye
+Concrete Evidence	Create concrete from concrete powder by dropping it into water
+The Rainbow You Always Wanted	Craft all 16 colors of concrete
+Clay-Dough!	Dig up some clay from a lake
+Bricks!	Fire up that clay!
+Pot Planter	Craft and place a flower pot
+Harry Potter	Place every type of plant in a flower pot
+The Terracotta Army	Craft all 16 colors of terracotta (stained clay)
+The Glazed Terracotta Army	Craft all 16 colors of glazed terracotta
+Rock Collection	Collect all the types of rocks
+Rock Polish	Craft every type of polished block
+Fake stronghold	Craft or collect all forms of normal, cracked, mossy and chiseled stone bricks
+Jailhouse Block	Craft or find iron bars
+Creepers and Withers	Engrave sandstone with creeper and wither patterns
+Built on Sand, Set in Stone	Craft or collect a stack of all forms of Sandstone and Red Sandstone
+Tuff Stuff	Craft or collect all forms of Tuff, Polished Tuff, and Tuff Bricks
+Deepslate Conspiracy	Craft all forms of Deepslate, Polished Deepslate, Deepslate Bricks and Deepslate Tiles
+Fake monument	Craft or collect all forms of prismarine blocks
+Fake fortress	Craft or collect all forms of nether brick and red nether brick
+No Chain, No Gain	Craft an Iron Chain using an Iron Ingot and Iron Nuggets
+Blackstonehenge	Craft or collect all forms of Blackstone, Polished Blackstone and Polished Blackstone Bricks
+Greek Art Decor	Craft all forms of quartz blocks
+Its original form	Use your furnace to smelt cobblestone back into stone
+Smooth, dude!	Smelt normal stone further into smooth stone
+Blast it!	Upgrade your furnace to a blast furnace using iron and smooth stone for smelting ores quicker
+Mannequin	Craft an armor stand for displaying your armor
+Living Dummy	Get killed from hitting an Armor Stand
+Armor Display	Put every full set of armor on different armor stands
+Sharpening Station	Craft a grindstone using a stone slab, planks and sticks for repairing tools
+Classic Pocket Edition Block	Craft a stonecutter using stone and an iron ingot
+Agent Smithing Table	Craft a smithing table
+Bubble, Bubble, Toil and Trouble!	Fill a cauldron using a bucket
+Hot Tub	Sit in a cauldron filled with lava
+Washing Machine	Use a cauldron to clean leather armor, a banner and a shulker box
+Farming	Hoe hoe hoe!
+Care For the Environment	Plant down a sapling
+Bapple!	Crunch into an apple
+Trimming the Treetops	Use shears to obtain leaf blocks
+Foliage	Use shears to pick up short grass or ferns
+Yay! Deadbush!	Get a deadbush cause you're a noob
+Booshes	Collect some Bushes
+You can't take the sky from me	Obtain a Firefly Bush
+Ecologist	Plant down all types of saplings
+A Mangrove Grove	Plant a Mangrove Propagule in a Grove biome
+Ultra Hardcore	Craft and eat a normal golden apple
+An Apple a Day	Eat an Apple every day for 30 in-game days
+Berry Nice!	Pick and eat some sweet berries
+Disen Berry Berry Bad!	Get stuck in a sweet berry bush. Oh, icky yucky goo!
+Shrooms	Gather both types of mushroom
+Mushroom, Mushroom!	Slurp some mushroom stew
+Mega Mushroom	Grow a giant mushroom and then harvest it with silk touch
+Suspicious Looking Stew	Slurp some suspicious stew and pray you don't suddenly see giant flying eyeballs in the sky
+I'm gonna be sick!	Slurp every kind of suspicious stew
+Sugar, Sugar	Harvest some sugar cane from a river or ocean
+It's full of ink	Obtain some ink from hunting a squid
+Squid Game	Hunt enough Squids to collect a stack of Ink Sacs
+Write your thoughts	Use a book, ink and a feather to craft a book and quill
+An amazing story!	Finish writing in your book or get a book from another player
+Kelp me!	Collect some kelp from an ocean
+Aquatic Biofuel	Craft a dried kelp block for use as a great fuel source
+Undersea Gardener	Craft a stack of dried kelp blocks
+Castaway	Eat nothing but dried kelp for three in-game days
+It's a cactus!	Break down a cactus in a desert
+Spikey!	Run into a cactus
+A Seedy Place	Plant a seed and watch it grow
+Souperman	Beetroot soup gives you souperpowers!
+Bake Bread	Grow wheat and use it to bake bread
+The Lie	Wheat, sugar, milk and eggs!
+Hay there!	Craft a stack of hay blocks
+Must be your birthday	Eat 100 slices of cake
+It's where nutella comes from	Obtain some cocoa beans from a jungle
+Me Love Cookie	Bake some cookies... and then scoff them all yourself
+Hot Chocolate	Plant some cocoa in the nice steamy Nether
+Naturally Carved	Harvest some spooky pumpkins
+The Pie	Bake a pumpkin pie
+Olaf	Do you want to build a snow golem?
+Unmasked	Shear the Pumpkin off of a Snow Golem to unveil their true face
+Pumpa kungen!	Carve a stack of pumpkins
+The Melon! The Melon! The Melon!	Eat a melon. Be careful not to drop it over a cliff
+Scientific Inaccuracy	Craft 9 melon slices back into a block that, when broken, will probably not give you all 9 slices back
+The Meloncholy Dane	Craft a stack of melon blocks
+Die, Potato!	Squash and eat a potato
+Not Today!	Eat a poisonous potato
+Certified Spud Chomper	Eat 100 Poisonous Potatoes
+24 Carrot Gold	Eat a golden carrot
+The garbage will do!	Craft a composter using wooden slabs then place it
+Natural Fertiliser	Fill up a composter
+One-course meal	Use bone meal to grow a sapling into a tree
+Combine Harvester	Use bone meal on everything that can be grown
+What's new with composting?	Compost every type of compostable item in a Composter
+Come to the countryside!	Plant every single type of crop on farmland
+Serious Dedication	Completely use up a diamond hoe, and then reevaluate your life choices
+Full Stomach	Fill both your hunger bar and saturation level
+Vegetarian	Eat every type of fruit, vegetables, and any sort of plant matter
+Meat Lovers	Eat every type of meat, even if uncooked or rotten
+A Balanced Diet	Eat everything that is edible, even if it's not good for you
+A Gluttonous Diet	Obtain a full stack of all the foods
+Animals	The world is full of friends and food
+Bacon!	Gotta kill this pig pig pig pig
+Pork Chop	You know kung fu, how about pork chop?
+Piglet's BIG Advancement	Breed two pigs to get this little piggy
+When Pigs Used to Fly	Craft a carrot on a stick so you can ride a pig off a cliff
+Swine Sailing	Ride a saddled pig in a boat in a minecart
+Pig Slaughterer	Collect a stack of raw porkchops
+The Three Little Pigs	Unite all Pig variants in one place
+Rabbit Season	Killing bunnies is cruel. Period.
+They're breeding like rabbits!	Breed two bunnies together
+Lucky Charm	Get a rabbit's foot
+Getting Into a Stew	Make and eat some rabbit stew
+In a hole there lived a Rabbit	Collect a stack of raw rabbit and rabbit hide
+Bunny Lover	Breed a baby bunny of every variant
+Going Down the Rabbit Hole	Bring a rabbit to the bottom of the world, then kill it
+Just Keeps Going	Eat Rabbit Stew, then avoid eating for the next 3 in-game days
+Cow Tipper	Harvest some leather
+High Steaks	The steaks are high for this advancement!
+Repopulation	Breed two cows with wheat
+Milk does your body good	Take a swig swig swig swig
+True Cow Tipper	Collect a stack of raw beef and leather
+Beef Moover	Unite all Cow variants in one place
+Mooshroom Kingdom	Find mooshrooms on a mushroom island
+Super Mooshroom	Breed two stubborn mooshrooms together
+Milkshroom	Milk a mooshroom with a bowl to get mushroom stew
+Mushroom Scientist	Strike a mooshroom with lightning and see what happens
+Overpopulation	Breed every type of animal
+Animal Kingdom	Bring one of every type of animal to one place (have them all within 32 blocks of you)
+Cool Kids	Craft and wear a leather jacket
+Fashion Statement	Dye some leather pants with one color, then put them on
+Shoe Shed	Dye 16 pairs of leather boots each with one of the individual colors
+Humble Bundle	Craft a Bundle using Leather and String
+Flamboyant Range	Put 4 of each type of dye into a single Bundle
+Fractal	Put a Bundle in a Bundle in a Bundle in a Bundle in a Bundle… 16 layers deep
+Tickle Time!	Pluck some feathers from a chicken
+So Good	Can't beat it, can't beat it
+Which came first?	The chicken... or the egg??
+Feeding the Ducks Chickens	Breed chickens by feeding them seeds
+Chicken Cooper	Collect a stack of raw chicken and feathers
+Omelette	Collect a stack of all kinds of Chicken Eggs
+Chick Buffet	Unite all Chicken variants in one place
+Chatterbox	Tame a Parrot using seeds. WARNING: Do not use a cookie!
+Is it a Bird?	Look at a Parrot through a Spyglass
+Birdkeeper	Tame all parrot variants
+Wooly!	Obtain wool from a sheep by killing it
+Feeling Sheepish	You'll get over it
+Mary Had a Little Lamb...	Breed two sheep to get a lamb
+Have a Shearful Day	Use Shears to obtain wool from a sheep
+Sheariously?	Collect a stack of white wool
+Live and Let Dye	Dye Sheep with all 16 colors of wool
+Rainbow Collection	Gather all 16 colors of wool
+Fuzzy Feet	Craft all 16 colors of carpet
+Goat out of here!	Slaughter a Goat
+Billy the Kid	Breed two Goats together using Wheat
+Whatever Floats Your Goat!	Get in a Boat and float with a Goat
+Screaming Milk	Milk a screaming Goat
+Goat Simulator	Get killed by a Goat that rammed into you. You have Goat to be kidding me!
+Ram	Obtain a Goat’s Horn by having one ram into a block
+Loud and Proud	Play a Goat Horn in the Deep Dark
+Silence of the Lambs	Bring a Sheep into an Ancient City and silence it
+Battle of the Bands	Blow into a Goat Horn during a raid
+Caprymphony	Blow every type of Goat Horn
+Ya like jazz?	Breed two bees using flowers
+Bee Our Guest	Use a bottle to collect Honey from a Beehive with a campfire beneath it so you don't aggravate the bees
+Hive Mind	Craft a bee hive using planks and honeycombs then place it
+NOT THE BEES!	Get stung to death by bees
+Total Beelocation	Move a Bee Nest with 3 bees inside using Silk Touch
+Honey, I'm Home!	Craft a stack of honeycomb blocks for building a home out of
+Nest, Quick!	Collect a stack of empty bee nests
+Winnie the Pooh	Drink some honey
+Sticky Situation	Jump into a honey block to slide down it
+WHERE'S THE HONEY LEBOWSKI	Drink 100 bottles of honey
+Cowboy	Tame a horse by jumping on it over and over again
+Foal Play	Breed a horse in an effort to get a better one
+Horse Armorer	Make horse armor out of dead horses (No, joking, any leather will do)
+A Horse in Shining Armor	Find diamond horse armor
+Colorful Cavalry	Dye 16 sets of leather horse armor each with one of the individual colors
+So Hungry I Could Eat a Horse!	Feed a Horse every type of food that it can eat
+It's High Noon	Snipe a Husk from 50 blocks away while riding a Horse
+Are we there yet?	Tame a donkey
+Artificial Selection	Breed a horse and a donkey to get a mule
+Master Farrier	Tame all horse variants
+Desert Rider	Find a Camel in a desert village and ride it
+Hump Day	Breed two Camels using cactus
+The High Road	Kill a hostile monster with a melee attack while riding a Camel
+Stay Calmer	Tame a llama
+So I got that going for me	Breed two llamas with hay
+Llama Llama Duck King	Tame all llama variants
+Llama Festival	Sit on Llamas with all 16 colors of carpet. Getting off will reset your progress
+Heavy Duty Caravan	Tame a llama with a strength of 5
+Blistering Barnacles!	Get spat at by a llama
+Lead the Way!	Craft a Lead using String, then attach it to a mob
+Beeloons!	Attach a lead to a bee
+You Lead, I'll Follow	Attach a lead to a llama to form a llama caravan
+Follow the Leader	Attach a lead to every mob that can be leashed
+Leader of the Pack	Befriend a wolf
+Puppies! Yipe!	Breed two wolves together to get a puppy!
+Isn’t It Scute?	Brush an Armadillo to get Armadillo Scutes
+Farmadillo	Breed two Armadillos using Spider Eyes
+Armadoggo	Equip your canine best friend with Wolf Armor
+Good as New	Repair damaged Wolf Armor using Armadillo Scutes
+Shear Brilliance	Remove Wolf Armor from a Wolf using Shears
+Paw Patrol	Equip Wolves with Wolf Armor dyed blue, red, yellow, lime, pink and orange
+The Whole Pack	Tame one of each Wolf variant
+What Does The Fox Say?	Breed two red foxes with sweet berries
+Snow Fox 64	Breed two snow foxes with sweet berries
+Blackberry Market	Trade some sweet berries to a Fox with an emerald in their mouth
+Foxy Thievery	Give a fox a Totem of Undying
+Frog Family	Breed two Frogs together using slimeballs
+Bukkit bukkit	Catch a Tadpole in a Bucket
+When the Squad Hops into Town	Attach a lead to each variant of Frog
+Fishy Business	Catch a fish
+Direct Fishing	Catch a fish by directly skewering it with a sword
+Grinding Nemo	Skewer a tropical fish
+Cephalight	Kill a Glow Squid
+Glow and Behold	Use a Glow Ink Sac to light up a sign
+Flashy Items	Put an item up for display in a Glowing Item Frame
+Iceologer Should've Won	Kill 100 Glow Squids
+Tactical Fishing	Catch a fish... without a fishing rod!
+Aquarium	Catch all four types of fish and set them free in an aquarium
+Tropical Collection	Collect all 22 of the common types of tropical fish
+The Cutest Predator	Catch an Axolotl in a Bucket
+The Healing Power of Friendship	Team up with an Axolotl and win a fight
+Thanks a lotl	Team up with an Axolotl in an Ocean Monument to help clear the curse of the Elders
+Axolittle	Breed two Axolotls together using Tropical Fish
+Axeolotl	Kill an Axolotl with an axe
+Axolotl of them	Catch all variants of Axolotls inside a Bucket
+Delicious Fish	Cook and eat a fish!
+Sushi	Eat some raw fish
+Salmonella Poisoning	Eat some raw salmon... and not get poisoned after all
+Catching Nemo	Catch a clownfish
+What a piece of junk!	Fish out a junk item
+Treasure Hunter	Fish out a piece of treasure
+Someone's been here before...	Fish out a ratty old pair of boots
+Master Angler	Collect a stack of all four types of fish
+Totally not an AFK fisher!	Fish out all types of items
+Poacher	Kill a turtle for their shells only to find they don't actually drop any when killed
+Hey, look, Mom!	Use sea grass to make a turtle lay some eggs
+Scuttler	Get a scute from a baby turtle when it grows up
+Turtle Soldier	Craft a full turtle shell
+Save the Turtles!	Collect a stack of turtle eggs
+Turtle Army	Collect a stack of Turtle Scutes
+Monsters	Battle against the monsters of darkness
+Monster Hunter	Kill any hostile monster
+Dead Don't Die	Kill a zombie
+There has to be another way...	Kill a zombie villager
+Iron Belly	Stop starvation using rotten flesh
+Desert Nomad	Kill a husk
+Zombie Slayer	Collect a stack of rotten flesh
+Dead Really Don’t Die	Give a zombie a Totem... so that you have to kill it twice
+Freezing	Bring a husk to a tundra biome and then kill it
+Still Talking!	Blow up a zombie with a charged creeper to get a zombie head
+Family Reunion	Reunite all zombie variants (and their baby forms) in one place
+Custom Boss Fight!	Give a zombie full diamond armor and a diamond sword... then kill it
+Trick or Treat!	Defeat a mob wearing a pumpkin
+Handsome Jack	Defeat a mob wearing a Jack o' Lantern on Halloween
+A Watery Grave	Defeat a drowned in the briny depths. Gurgle
+Tridented Shield	Block a trident thrown by a Drowned
+Because I'm Aquaman!	Obtain a trident from a Drowned
+Mollusc Man	Defeat a Drowned that is holding a nautilus shell
+Captain Etho	Defeat a Drowned that is holding both a nautilus shell and a trident
+Ooh, Baby!	Kill a baby zombie
+Baby, baby, baby noo!!	Kill one of each of a baby zombie, zombie villager, husk, drowned and zombie pigman
+Poultry Boy	Slay the elusive Chicken Jockey
+Absolute Cinema	Defeat a Chicken Jockey in a Woodland Mansion
+Spooky Skeleton	Kill a skeleton
+Boned	Grind up some bones into bonemeal
+Not Today, Thank You	Deflect a Skeleton's arrow with a Shield
+Skeleton Smiter	Collect a stack of bones
+Paleontologist	Craft or mine a stack of bone blocks
+Frosty	Kill a stray
+Bogged Down	Kill a Bogged. Watch those poison arrows!
+Poison Dart	Shoot a mob with a Tipped Arrow of Poison
+The Undead Cavalry	Ride a Skeleton Horse
+Melting	Bring a stray to a desert biome and then kill it
+Spooky Skulls	Blow up a skeleton with a charged creeper to get a skeleton skull
+Bone-to-party	Reunite all skeleton variants and their three-headed overlord in one place
+Ew Ew Ew!	Kill a spider
+Poisonous Ew	Kill a cave spider
+Spider Smasher	Collect a stack of string from spiders or cobwebs
+Spider-skeleton	Does whatever a spider can
+The Ghastly Eyes	Kill an invisible spider
+Pupil Poppers	Eat 1000 Spider Eyes
+What a creep!	Kill a creeper
+Keep Your Distance	Kill a Creeper with arrows
+Blast Shield	Survive a creeper's blast with your shield
+Aww man!	That was a nice life you had. Shame it had to end at this time time time
+Controlled Detonation	Persuade a Creeper to blow up using Flint and Steel
+Look Out!	Zoom in on a Creeper with a Spyglass from less than a block away
+Creeper Killer	Collect a stack of gunpowder
+Creepy Heads	Blow up a creeper with a charged creeper to get a creeper head
+Camouflage	Kill a mob while wearing the same type of mob head
+The ender of ender	Kill an enderman
+Ender Worm	Prevent an endermite from maturing
+Tele-Morph	Damage a mob by teleporting into it
+Enderman Destroyer	Collect a stack of ender pearls
+Plane Walker	Kill endermen in all three dimensions
+Impossible...	Kill an Enderman with an arrow
+Basketblock Championship	Kill Endermen that are holding every block that they can hold
+Witch!	Kill a witch
+Miracle Drink	Drink milk or honey to cure poison when on half a heart
+Taste of your own medicine	Kill a witch with a splash potion
+Gelatinous Cube	Kill a slime
+Trampoline	Bounce onto a slime block from at least 30 blocks high
+Slime Squisher	Collect a stack of slimeballs
+Oh no guys I'm o o z i n g	Collect enough slimeballs to craft a stack of slime blocks
+Termite Control	Kill a silverfish
+The Phantom Menace	Get attacked by phantoms
+Ricochet Swoop	Deflect a Phantom's swoop with your shield
+Phantom Slayer	Collect a stack of phantom membranes
+Anti-Air	Shoot down a phantom with an arrow from 30 blocks away
+Two Birds, One Arrow	Kill two Phantoms with a piercing arrow
+We'll handle this	Lure a Phantom into the Nether and then kill it
+Now that's a lot of damage	Succumb to the Warden
+Blind Stare	Look at a Warden with a Spyglass
+Stealth is Optional	Overcome a Warden in the deepest and darkest of caves
+Warden Frostbite	Bring a Warden to the surface of a snowy plains biome and kill it
+Maximum Resistance	Take a hit from the Warden with the maximum possible protection
+Not Afraid of Heights	Bring a Warden to world height. It can’t be afraid of heights if it can’t see
+House of Freaks	Summon five Wardens and have them all be within 16 blocks of the player
+Night Runner	Defeat all kinds of Overworld night mobs
+Hell Hunter	Defeat all kinds of Nether mobs
+Void Ender	Defeat all kinds of End mobs
+Dungeon Crawler	Defeat all kinds of mobs from special structures
+Monsters Hunted	Kill one of every hostile monster
+Weaponry	Weapons of choice for combat
+Take Aim	Shoot something with a bow and arrow
+That is so fletch!	Craft a fletching table
+Point Blank	Shoot a mob from point-blank range
+Bow Spammer	Attack a mob by bow-spamming
+Sniper Duel	Kill a skeleton with an arrow from more than 50 meters
+The Mighty Hunter	Hunt all types of land animals with your bow
+There it goes…	Kill a mob at the bottom of the world from the build limit using any kind of projectile
+X-Bow	Craft a crossbow using stick, spider string, iron and a hook
+Ol' Betsy	Shoot a crossbow
+Who's the Pillager Now?	Give a Pillager a taste of their own medicine
+Artillery	Have nine loaded crossbows in your hotbar. All set!
+Fireworks Display	Use gunpowder and paper to craft fireworks
+Pyrotechnic	Craft a firework of every shape and additional effect
+Explosive Fire	Load your crossbow with a firework
+My eyes!	Kill a mob using a firework's explosion
+Who ya gonna call?	Kill a ghast using a firework's explosion
+Sir Knight	Use planks and iron to craft a shield
+Shield Luck	Protect yourself from an enemy's attack with your shield
+Flying Colors	Apply a banner to your shield
+Master Shieldsman	Deflect an attack from every hostile monster
+Viking	Attack a mob using an axe
+Axeman	Attack mobs using every kind of axe
+Shovel Knight	Hit mobs using every kind of shovel
+Spleaf	Kill a mob using a shovel while both of you are standing on a Big Dripleaf
+Multiclassed	Hit a mob with every type of weapon
+A Throwaway Joke	Throw a trident at something. Note: Throwing away your only weapon is not a good idea
+King of the Sea	Kill a drowned using a trident from at least 30 metres
+The Aquatic Hunter	Hunt all types of aquatic creatures with your trident
+Poseidon vs. Hades	Hunt all types of nether creatures with your trident
+Nice to Mace You!	Craft a Mace using a Breeze Rod and a Heavy Core, then do a smash attack by hitting a mob after falling
+Meteor Strike	Deal 50 hearts of damage in a single hit using the Mace
+Warden Extinction	Deal 250 hearts of damage in a single hit using the Mace… to one-shot a Warden
+Bombs Away!	Use gunpowder and sand to craft TNT
+Revenge!	Blow up a creeper with TNT
+Demolitions Expert	Blow up every hostile mob with TNT
+Pig Fishing Tournament	Pull a pig using a fishing rod
+Indiana Jones	Pull a monster using a fishing rod
+When Pigs Finally Fly	Pull a pig from 25 blocks below you and watch it go
+Snowball Fight	The spirit of Christmas... quickly drowned out by a battle
+A snowball's chance in hell	Defeat a Blaze using snowballs
+Backfire	Kill a Blaze using a Blaze Rod while both you and it are on fire
+Egging, Dude!	Vandalise something with eggs
+There's yolk on my head	Catapult an egg onto a zombie's head
+Expelliarmus!	Hit a mob with a stick
+Slapfish	Slap a mob across the face with a fish
+Diemonds!	Hit a mob with diamonds
+Inspector Gadget	Kill a zombie while holding a spyglass
+Rock, Paper, Shears!	Beat a zombie at rock, paper, shears
+It's time consuming	Kill something using a clock
+Loser!	Die twice within ten seconds
+Half Heart Life	Be on half a heart of health for a minute
+Biomes	All around the world!
+For you, my sweet	Pick a flower for someone special
+There's a zombie on the lawn	Find a sunflower plains
+Enchanted Forest	Find a flower forest
+Pretty in Pink	Find a Cherry Grove
+Flower Power	Collect all types of flowers
+Eyeball Forest	Obtain an Eyeblossom from a Pale Garden
+Heart Breaker	Smash a Creaking Heart to destroy its Creaking
+Resinance	Pick off a Resin Clump growing on the side of a Pale Oak tree
+Fake Copper	Craft all forms of Resin Blocks and Resin Bricks
+Pale in Comparison	Place a block of Pale Moss next to a block of regular Moss
+Heart Transplanter	Place a Creaking Heart with the correct alignment between two Pale Oak Log blocks
+Le creak, c'est chic	Place fifty Creaking Hearts and inundate yourself with an absolute nightmare
+The Mighty Jungle	Go for a safari in the jungle
+Tarzan	Swing (or climb) on some vines
+Lion Hunter	Feed an Ocelot fish to try and gain its trust
+Simba	Breed a baby ocelot
+Bamboom!	Break down some bamboo
+Construction Worker	Craft and use some scaffolding
+Top of the World	Place scaffolding to the world limit
+Zoologist	Breed two pandas to get a baby panda
+Kung Fu Panda!	Get beaten up by an angry panda
+Edge of the Jungle	Enter a Modified Jungle Edge - the rarest biome in Minecraft
+Qinling	Breed a rare brown panda
+Pandamonium	Feed cake to every type of panda
+Smooth Operator	Slip and slide on some ice
+This Snow is Snowier	Fall into some Powder Snow
+Light as a Rabbit	Walk on Powder Snow… without sinking in it
+Captain America	Get completely frozen inside two blocks of Powder Snow for a loooong time. Big question is: Can you do this all day?
+Powder-full	Pick up some Powder Snow in a Bucket
+Thin Ice!	Use a silk touch pickaxe to pick up some ice blocks
+Spike Ice!	Break down an ice spike using a silk touch pickaxe
+Thick Ice!	Craft or mine a blue ice block from an iceberg
+Everybody Loves Ice!	Obtain a stack of every type of ice in your inventory
+Barbearian	It may be illegal to hunt polar bears in real life, but not in Minecraft
+We’re Going on a Bear Hunt	Get hunted by a Polar Bear
+Just Keep Swimming	Go for a swim
+The sea calls you...	Find an ocean
+Boaty McBoatface	Craft and ride a boat to sail on the high seas
+Dive Bomb	Dive into water from a cliff at least 50 blocks tall
+Free Diver	Stay underwater for 2 minutes
+Sleep with the Fishes	Spend a day underwater
+Cargo Carrier	Ride a Boat with a Chest in it
+Flipper	Give a Dolphin something to play with
+Dolphin Dasher	Get a speed boost from your friendly underwater companions
+Echolocation	Feed a dolphin fish to have it lead you to treasure
+So Long & Thanks For The Fish	Get murdered by dolphins
+The Great Blocky Reef	Come across a coral reef in the ocean
+In a Pickle	Collect some sea pickles from a coral reef
+Just a sample	Collect some coral from a coral reef
+No Reefing!	Collect all colors of coral blocks, plants and fans (including dead ones)
+Pushed Around	Enter a bubble column
+Atlantis?	Explore some Underwater Ruins
+Ahoy!	Come across a sunken ship
+Boatception	Get in a boat within a shipwreck
+Titanic	Find a shipwreck in an iceberg biome
+X Marks the Spot	Use a treasure map to find Buried Treasure
+Moskstraumen	Construct a Conduit in the ocean
+Kilometre Walk	Travel at least 1000 blocks from the centre of the world in any direction. It's not that far in real life
+Ten Thousand Blocks	Travel at least 10,000 blocks from the centre of the world in any direction. A journey that long begins with a single step
+Voyage	A hundred kilometres!
+One with the forest	Discover every forest biome
+Warm Feet	Discover every dry biome
+Cold Feet	Discover every snowy biome
+Overgrown!	Discover every overgrown biome
+High Feet	Discover every mountain biome
+Wet Feet	Discover every water biome
+Adventuring Time	Discover each type of surface biome in the Overworld
+Adventure	Village, pillage and exploration
+I hereby dub thee...	Obtain a name tag
+I just want to make toast!	Name a bunny 'Toast'
+What's Up, Doc?	Turn a mob upside-down
+Nyan Sheep	Nyan Nyan Nyan Nyan...
+Slenderman	Defeat this terrifying monster
+The one and true Johnny	Defeat Johnny
+Nerds Never Die	Name a Piglin Brute 'Technoblade'
+Beethoven	Craft a jukebox with planks and a diamond
+Music To My Ears	Play a music disc in a jukebox
+The Sound of Music	Make the Meadows come alive with the sound of music from a jukebox
+Disc Jockey	Listen to all the music discs
+Overpowered	Obtain a Notch Apple
+Now You’re Thinking With Portals	Find a broken Nether Portal in the Overworld
+Grave Robber	Enter a pyramid in a desert
+Tomb Raider	Enter a jungle temple
+Witchcraft	Find a witch hut in a swamp
+Secret of the Igloo	Find an igloo in a snowy tundra
+Raidin' Master	Discover every structure type
+Brushed Away	Craft a Brush using a feather, copper and a stick
+Respecting the Remnants	Using a Brush, carefully excavate a Pottery Sherd from a suspicious block
+Careful Restoration	Put together a Decorated Pot using four Pottery Sherds
+Pottery Exhibition	Find one of each type of Pottery Sherd throughout your archaeology expeditions
+A Suspicious Advancement	Obtain a block of Suspicious Sand or Suspicious Gravel
+sus	Obtain a stack of Suspicious Sand and Suspicious Gravel
+Life… uhh… finds a way	Find a strange egg among the sand of an Ocean Ruin using a Brush. Smells interesting
+Truffle Worm	Have a Sniffer dig up seeds
+Jurassic Sniff	Breed two Sniffers together using Torchflower Seeds
+Little Sniffs	Feed a Snifflet
+Planting the Past	Plant any Sniffer Seed
+Happy Trails!	Discover the Trail Ruins
+Raiders of the Lost Trim	Carefully excavate a Smithing Template from the Trail Ruins
+A Chiptune Relic	Excavate an ancient record from within the Trail Ruins
+Good-Lookin’ Treasure	Find a Smithing Template
+Crafting a New Look	Use a Smithing Template to apply a trim to a piece of armor
+Mold Maker	Use seven diamonds to duplicate a Smithing Template
+Coordinated Flair	Wear a suit of armor with all four pieces trimmed with the same material
+Chromatic Armory	Trim pieces of armor with all types of materials
+Genesis of the End	Find the Eye Smithing Template in a Stronghold
+Vexingly Hard to Find	Find the Vex Smithing Template in a Woodland Mansion
+The Sound of Silence	Find the Silence Smithing Template in an Ancient City
+Smithing With Style	Apply every type of armor trim at least once
+Stacked Smither	Obtain a stack of every Smithing Template
+Out of Posts	Enter a Pillager Outpost
+Riot Shield	Deflect a Pillager's crossbow bolt
+Redemption Arc	Befriend a Pillager that doesn’t have a crossbow
+I've got a bad feeling about this	Kill a raid captain. I’d warn against drinking that bottle they dropped…
+We're being attacked!	Trigger a Pillager Raid
+Sound the Alarm!	Ring the bell with a hostile enemy in the village
+It's So Beast-Like!	Slay a Ravager in a raid
+I am Ravager, hear me ROAR!	Have a Ravager slam into your shield
+Picador	Hit a Ravager with a thrown trident
+Feeling Ill	Defeat every type of Illager as part of a raid
+Hero of the Village	Triumph over a full raid for the first time
+Superhero of the Village	Defeat enough raid captains to obtain a stack of Ominous Banners
+Justice	Kill a Pillager, Vindicator, Evoker, Ravager and Witch with a single crossbow arrow
+Buy Low, Sell High	Trade with a villager while under the Hero of the Village effect
+Undying Fandom	Receive every type of gift from Villagers as a Hero of the Village
+War is Coming	Start a Raid with the highest level of Bad Omen
+Veteran of the Village	Attain the highest level of Hero of the Village
+Allayance	Rescue an Allay from a Pillager Outpost or Woodland Mansion and give it something to play with
+You’ve Got a Friend in Me	Have an Allay deliver items to you
+Evelyn Evergreen	Have an Allay deliver Spruce Saplings to you while chopping down trees
+Budget Vex	Give an Allay an Iron Sword
+Diagon Allay	Have an Allay deliver a potion to you in the Deep Dark
+And make it double!	Play a jukebox near some Allays, then give one an Amethyst Shard and see what happens!
+Birthday Song	Have an Allay drop a cake at a note block
+Awards Ceremony	Have an Allay present to you a trophy awarded from completing one of the advancements
+Travelling Merchant	Trade with a Wandering Trader
+Shady Deals	Trade with a Wandering Trader while he is invisible
+Florist	Trade for a flower from the Wandering Trader
+Rebuilding the Oceans	Trade for a coral block from the Wandering Trader
+Deal's Off!	Get spat at by one of the Trader Llamas
+Do You Want to Trade?	Find an NPC village
+Oh, look, it dings!	Ring a bell in a village
+Prime Specimen	Find Tall Grass or a Large Fern inside a village chest
+What a Deal!	Successfully trade with a Villager
+Crazy Cat Lady	Tame a stray cat in a village
+If only cats grew into kittens	Breed two cats together to get a kitty!
+A Complete Catalogue	Tame all cat variants!
+Hired Help	Summon an Iron Golem to help defend a village
+Your Daily Fix	Use an Iron Ingot to repair a damaged Iron Golem
+MURDERER!	Kill a villager
+Rekt!	Get killed by a natural iron golem defending its village
+You are the Pillager	Murder one of every villager profession with a crossbow
+Filthy Rich	Make 64 emeralds
+Filthy Stinkin' Rich	Make 64 emerald blocks
+Hey! You two should kiss!	Use a Spyglass to look at two Villagers sitting in a Boat from at least 50 blocks away
+Traveller	Travel to every type of village and trade with a villager in each
+Village Settler	Trade for a new bell to establish a new village
+Town Planner	Craft and place every type of villager workstation
+Workaholic	Craft a stack of all the villager job site blocks
+Professional	Trade with a villager at master level
+Businessman	Trade with every type of villager career
+The Tribal Villagers	Breed and trade with a jungle villager
+Lilypad Hatter	Breed and trade with a swamp villager
+Star Trader	Trade with a villager at the build height limit
+Master Trader	Trade with every type of villager career at master level
+Knowledge is Power	Trade for an Enchanted Book
+Rare Candy Shop	Trade for a Bottle o’ Enchanting from a Cleric
+All chained up	Trade for a piece of chain armor from an armorer villager
+Retro Future Knight	Trade for full suit of chain armor from an armorer villager
+Mapmaker	Craft or trade an empty map
+Mapmaker's Table	Craft a cartography table with paper and planks
+I'm not lost anymore!	Right-click a banner with a map
+Map Room	Place a map in an item frame
+Treasure Map	Trade for an Explorer Map
+All Around the World	Buy every kind of Explorer Map that can be bought from Cartographers
+Monumental	Find an Ocean Monument
+Laser Sharks!	Defeat a Guardian
+Spear Fishing	Kill a Guardian with arrows
+Guardian Destroyer	Collect a stack of prismarine shards and crystals
+The Deep End	Defeat an Elder Guardian
+Dry Spell	Dry a sponge in a furnace
+Sponge Miner	Collect a stack of sponges from ocean monuments
+House of Psychos	Find a Woodland Mansion
+Heeere's Johnny!	Kill a Vindicator in a Woodland Mansion
+The Shielding	A shield does no better than a locked door
+Ghostbuster!	Bust a Vex summoned by an Evoker
+Wololo!	Defeat an Evoker in a Woodland Mansion
+Postmortal	Use a Totem of Undying to cheat death
+Minecraft: Trial(s) Edition	Step foot in a Trial Chamber
+This will be a breeze!	Famous last words. Get killed by a Breeze
+Break Wind	Defeat a Breeze in the Trial Chambers
+Who Needs Rockets?	Use a Wind Charge to launch yourself upward at least 8 blocks
+Breeze Suppressor	Defeat enough Breezes to collect a stack of Breeze Rods
+From Under Your Feet	Throw a Wind Charge at a mob that is standing on top of a trapdoor
+Blowback	Kill a Breeze with a deflected Wind Charge
+Under Lock and Key	Unlock a Vault using a Trial Key
+Hard Mode Activated	Drink an Ominous Bottle in a Trial Chamber to cast a greater challenge
+Revaulting	Unlock an Ominous Vault with an Ominous Trial Key
+Vault Hunter	Unlock 25 Vaults across Trial Chambers
+Keys to Success	Collect a stack of all kinds of keys
+Tricky Treasures	Collect every kind of treasure item that can only be found in Trial Chambers
+Omniscient	Collect a stack of one tier of Ominous Bottles
+Core Keeper	Obtain a stack of Heavy Cores
+Redstone	Cracking contraptions
+Click!	Place and push a button
+Leveraging Synergy	Flick a lever
+Under Pressure	Step on a pressure plate
+Pressure Detector	Use a pressure plate to craft a detector rail
+Metal Plate	Dinner time!
+Bling Plate	Dine in style! (No, not really)
+Tripping Over	Place a line of string between two tripwire hooks, and trigger it
+Troll Chest	Trigger a trapped chest. Good for trolling your friends!
+Powerful Light	Craft and place a redstone torch
+Repeating Repeater	Craft a redstone repeater for delaying signals
+Quirky Quartz	Mine Nether Quartz from the Nether
+Comparing Comparator	Craft a redstone comparator
+The Power of Books	Read the power signal of a Chiseled Bookshelf using a comparator
+Solar Power	Craft a daylight sensor
+Observer Buddy	Craft an observer
+Quartz Miner	Mine enough nether quartz to craft a stack of quartz blocks
+Space Hopper	Craft a hopper for item transportation
+Space Dropper	Craft a dropper for item transportation
+Dispense With This	Construct a dispenser
+Splatfest	Have at least 100 of each type of Chicken Egg fired in the air at once within 48 blocks of you
+We Have Liftoff!	Build a redstone machine that uses TNT to launch you at least 100 blocks into the stratosphere
+Target Acquired	Put up a Target for archery practise
+Target Practise	Hit a Target with all types of projectiles
+Bullseye	Hit the bullseye of a Target Block with an arrow from 30 blocks away
+Craftception	Craft a Crafter
+Crafters Crafting Crafters	Be near a Crafter when it crafts a Crafter
+Factorio	Be near a Crafter when it crafts a Dispenser 64 times
+Moving Parts	Craft a piston so you can push things
+Sticky Parts	Craft a sticky piston so you can pull things
+Engineer	Craft all types of redstone component
+Master Engineer	Craft a stack of all types of redstone component
+Mozart	Craft a note block
+Take Notes	Tune a Note Block through every possible note
+Noteworthy	Play every possible instrument on a Note Block
+Travelling Bard	Play a Note Block in every type of biome
+Monstrous Music	Play Note Blocks with each type of mob head above it
+All Aboard!	Craft and board a Minecart for railway journeys
+Fuel Engine	Craft a Minecart with Furnace and use coal or charcoal to send it chugging
+Moving Storage	Put a chest in a minecart
+Moving Moving Storage	Put a hopper in a minecart
+Mobile Explosion	Put TNT in a minecart
+Electric Rails	Making furnace minecarts completely useless
+Railwayman	Craft a stack of all the different types of rails
+On A Rail	Travel by Minecart in a straight line to at least 1 km from where you started
+Vibe Check	Use Silk Touch to pick up a Sculk Sensor or find one among Ancient City treasure
+Calibration Sensation	Craft a Calibrated Sculk Sensor using Amethyst Shards
+The Block of Eternal Screaming	Use Silk Touch to pick up a Sculk Shrieker
+The Incredible Sculk	Collect a stack of all sculk-related blocks
+Sculker Box	Hold a Shulker Box that is completely filled with Sculk
+Cataclyst	Kill a Wither near a Sculk Catalyst to unleash a large explosion of sculk
+Monstrous Sacrifices	Kill every hostile monster near a Sculk Catalyst
+Enchanting	Enchant items to give them magical abilities
+Librarian	Build some bookshelves for your enchanting table
+Magical Stockpile	Obtain a full stack of bottles of enchanting
+Bow down to me!	Obtain Power V
+To Infinity And Beyond!	Obtain Infinity on a bow
+Super Efficient	Obtain Efficiency V
+Fortunate Son	Obtain Fortune III
+Pick Like Silk	Use a Silk Touch enchanted pickaxe to obtain diamond ore as a block
+Needle Sharp	Obtain Sharpness V
+Undead Slayer	Obtain Smite V
+Bane of one-shotting spiders	Obtain Bane of Arthropods V
+Newton's Flaming Laser Sword	Have a diamond sword with Fire Aspect II
+A rather pointy fence post	Enchant a wooden sword with Sharpness V. Not really the best weapon, but it could be a minor annoyance to someone
+Overkill	Deal eight hearts of damage in a single melee blow without using a Mace
+Over-Overkill	Deal sixteen hearts of damage in a single melee blow without using a Mace
+Machine Bow	Fire a crossbow as rapidly as possible
+Shotbow	Shoot three arrows at once with a crossbow
+Arbalistic	Kill five unique mobs with one crossbow shot
+Oh baby a triple!	Kill three mobs at the same time using a Multishot Crossbow from at least 30 blocks away
+Boomerang	Turn your trident into a boomerang by getting Loyalty on it
+Do A Barrel Roll!	Use Riptide to give yourself a boost
+Zeus	Obtain Channeling on a trident
+Very Very Frightening	Strike a Villager with lightning
+Mace Windu	Obtain the Wind Burst enchantment on a Mace
+Whack-a-mole	Using a Mace enchanted with Wind Burst, hit eight Armadillos consecutively without touching the ground
+Like a Cat	Obtain boots enchanted with Feather Falling
+Echidna	Obtain Thorns III on a piece of armour
+Armor for the masses	Obtain every protection related enchantment
+Knocking Your Socks Off	Obtain Knockback and Punch enchantments
+Scuba Gear	Obtain every water related enchantment
+Fiery	Obtain every fire related enchantment
+Like a Ninja	Find the Swift Sneak enchantment on an Enchanted Book in an Ancient City
+Silent But Deadly	Sneak and sprint on sculk with Speed II while wearing Swift Sneak III leggings. Try saying that six times swiftly
+Gotta Go Fast!	Obtain the Soul Speed enchantment from a Bastion or bartering with Piglins
+Let It Go!	Using Frost Walker boots, walk on frozen water over a deep ocean
+Complete Enchanter	Obtain every enchantment throughout your enchanting career
+Master Enchanter	Obtain every enchantment at their max level throughout your enchanting career
+Heavy Metal	Craft an anvil
+Baron of Blacksmiths	Get a stack of regular, chipped and damaged Anvils
+Curses!	Obtain both types of curses
+Handmade Blinding	Wear a carved pumpkin enchanted with Curse of Binding
+This name sounds cooler	Name your Diamond Sword 'Diamond Edge'
+I'll be back	Name your bow 'Terminator'
+God of Thunder	Name your Trident with Loyalty III and Channeling 'Mjolnir'
+Unbreakable	Obtain Mending on an item
+Master Miner	Create a pickaxe with all possible enchantments at max level
+Master Digger	Create a shovel with all possible enchantments at max level
+Master Axeman	Create an axe with all possible enchantments at max level
+Master Farmer	Create a hoe with all possible enchantments at max level
+Master Knight	Create a sword with all possible enchantments at max level
+Master Sniper	Create a bow with all possible enchantments at max level
+Master Arbalist	Create a crossbow with all possible enchantments at max level
+Master Armorer	Create a full suit of armor with all possible enchantments at max level
+Master Fisher	Create a fishing rod with all possible enchantments at max level
+Master Tridenteer	Create a trident with all possible enchantments at max level
+Master Macerator	Create a mace with all possible enchantments at max level
+Statistics	If your numbers go up, you're having more fun
+Out for a stroll	Walk 10km
+Who needs cars?	Walk 50km
+I enjoy long walks & playing MC	Walk 250km
+65 hours of walking	Walk 1000km. The statistics tab shall no longer be the grindy super challenges tab
+Natural Sprinter	Sprint 10km
+Marathon	Sprint 42.195km
+Your legs must be tired	Sprint 250km
+Spring in your step	Jump 1000 times
+Boing, Boing	Jump 10,000 times
+Jumping Jacks	Jump 100,000 times
+Sneaky Snitch	Sneak 100m
+Black Belt Ninja	Sneak 1km
+Ancient Kung Fu Master	Sneak 10km
+Laps in the pool	Swim 1km
+Olympic Athlete	Swim 10km
+Olympic Gold Medallist	Swim 50km
+Minecart Rider	Ride 1km in a minecart
+I Like Trains	Ride 10km in a minecart
+Global Railway Network	Ride 50km in a minecart
+Pig Training	Ride 100m on a pig
+Snout 500	Ride 1km on a pig
+Lightning McPig	Ride 10km on a pig
+Horse Training	Ride 1km on a horse
+Sheriff Firearm	Ride 10km on a horse
+Scourge of the West	Ride 50km on a horse
+Luxury Cruise	Sail 1km in a boat
+Pirate Captain	Sail 10km in a boat
+Sailor of the Seven Seas	Sail 50km in a boat
+Taking It In Stride	Ride 100m on a Strider
+Who Needs Boats?	Ride 1km on a Strider
+This Ride Is Lit, Yo!	Ride 10km on a Strider
+Test Flight	Ride 100m on a Happy Ghast
+Who Needs Elytra?	Ride 1km on a Happy Ghast
+Big Blimp Enthusiast	Ride 10km on a Happy Ghast
+Take to the Skies	Fly 10km with elytra
+Supersonic	Fly 100km with elytra
+Frequent Flyer	Fly 1000km with elytra
+Mob Hunter	Defeat 250 mobs
+Bloodthirsty	Defeat 2500 mobs
+Kill or be Killed	Defeat 25,000 mobs
+The Parrots and the Bats	Breed 100 animals
+Cupid	Breed 500 animals
+Two By Two	Breed 2500 animals
+Om Nom Nom	Eat 200 food items
+Yum Yum Yummo	Eat 1000 food items
+Food, Glorious Food!	Eat 5000 food items
+The Haggler	Trade with villagers 100 times
+Big Spender	Trade with villagers 500 times
+STONKS!	Trade with villagers 2500 times
+Loot 'em!	Open 10 loot chests
+More For Me	Open 100 loot chests
+I <3 Chests	Open 500 loot chests
+Novice Enchanter	Enchant 10 items
+Journeyman Enchanter	Enchant 50 items
+Elderly Enchanter	Enchant 250 items
+Level Up	Reach 30 experience levels
+Overlevelling	Reach 100 experience levels
+XP Grinder	Reach 300 experience levels
+Giga XP Grinder	Reach 1000 experience levels
+The First Night	Survive the first night in your brand new world
+Passing the Time	Play for 100 days
+Happy New Year!	Play for a whole Minecraft year
+Nether	Bring summer clothes
+Stem Research	Attack a huge Nether Fungi until a stem pops out
+What a Fungi!	Pick up Crimson or Warped Fungus
+I am Root	Pick up some crimson or warped roots
+Don't Blink	Climb on some Weeping Vines in a Crimson Forest
+Twisted	Climb on some Twisting Vines in a Warped Forest
+What about Corruption Planks?	Craft every item made out of crimson wood
+Welcome to Warp Zone!	Craft every item made out of warped wood
+Hot Tourist Destination	Explore every Nether biome
+Hell Botanist	Gather a stack of every Nether plant
+Spreading Corruption	Place one of every nether block in the overworld
+The Struggle Nether Ends	Place one of every nether block in The End
+Roadhog	Hunt a Hoglin for food
+When Hoglins Breed	Breed a baby Hoglin using Crimson Fungi
+Whole Hog	Get mauled by a Hoglin
+Giddy Up!	Punch a baby Hoglin that is being ridden by a baby Piglin
+Zork Chop	Bring a Hoglin into the Overworld to zombify it, then kill it for zorkchops
+Oh, Shiny!	Distract Piglins with gold
+Cultural Misunderstandings	Slay a Piglin in battle... or an accidental incursion
+We Got a Live One!	Bring a Piglin into the Overworld then spare it from an eternity of zombification
+When Piglins Fly	Give a piglin elytra then kill it
+Hung, Drawn and Bartered	Barter for every possible type of item with Piglins
+A Piglin's Best Friend	Give a total of 500 gold to Piglins during your nether adventures
+Piglin Peril	Obtain a Piglin Head by blowing up a Piglin with a Charged Creeper
+Those Were the Days	Fight your way into a Bastion Remnant
+Brute Force	Defeat a Piglin Brute in a Bastion Remnant
+Et tu, Brute?	Get murdered by Piglin Brutes
+Astrobrute	Send a Piglin Brute to the End and kill it there before it zombifies
+War Pigs	Loot a chest in a Bastion Remnant
+Gilty!	Mine some Gilded Blackstone from a Bastion Remnant
+Gilded Miner	Mine a stack of Gilded Blackstone from Bastion Remnants
+Time to Upgrade!	Find a Netherite Upgrade Smithing Template in a Bastion Remnant
+Wub wub wub!	Obtain the Pigstep music disc from a Bastion Remnant
+Hot Reels!	Reel in a Strider using a Fishing Rod
+This Boat Has Legs	Ride a Strider with a Warped Fungus on a Stick
+Feels Like Home	Take a Strider for a loooong ride on a lava lake in the Overworld
+Bobbleheads	Breed two Striders using Warped Fungus
+This One’s Mine!	Kill a Zombified Piglin that is riding a Strider and take its steed
+Jenga	Ride a Strider riding another Strider riding a boat riding a minecart
+From Whence It Came!	Find a broken Nether Portal in the Nether
+Ancient Restoration	Rebuild and reactivate a Ruined Portal
+Who is Cutting Onions?	Obtain Crying Obsidian from a ruined portal or bartering with Piglins
+Anchorman	Craft a Respawn Anchor using Crying Obsidian and Glowstone then place it down
+Not Quite 'Nine' Lives	Charge a Respawn Anchor to the maximum
+The Tribal Snouts	Kill a zombie pigman
+High Temperature Fluid Monster	Kill a magma cube
+Legend of Hell Chicken Riders	Kill a chicken jockey in the nether
+Magma Cube Squisher	Collect a stack of magma cream
+Giant Floating Jellyfish	Shoot down a ghast
+Fire Blast Shield	Block the explosion of a ghast's fireball
+Is it a Balloon?	Look at a Ghast through a Spyglass
+Return to Sender	Destroy a Ghast with its fireball
+Bring Down The Beast	Bring down a ghast with a sword
+Ghast Slayer	Collect a stack of ghast tears
+Uneasy Alliance	Rescue a Ghast from the Nether, bring it safely home to the Overworld... and then kill it
+Electrifying Alliance	Smite a ghast with lightning from the Overworld’s heavens
+Stay Hydrated	Place a Dried Ghast block into water
+Snow Cone?	Feed snowballs to a Ghastling
+Hot Air Balloon	Craft a Harness, place it on a Happy Ghast, and ride it
+Midport Village	Ride a Happy Ghast into a village
+Lead Zeppelin	Attach a Boat to a Happy Ghast using a Lead
+Pillow Fight	Slay a Ghast while riding a Happy Ghast
+Collateral Damage	Deflect a Ghast fireball into a Happy Ghast
+Hell's Bells	Ring a bell in the Nether
+Hot Spring	Sit in water in the Nether
+Polar Opposites	Start freezing in the Nether
+Nugget in a Biscuit	Mine Nether Gold Ore for a pile of gold nuggets
+Stepping on Legos	Walk on some hot Magma Blocks in the Nether
+Dark Ages	Mine Blackstone from a Basalt Deltas biome
+Nether Rock Collection	Mine a stack of Netherrack, Basalt, Blackstone and Magma in the Nether
+Quicksand	You sink like quicksand and move slow like mud
+Burnt Right Into Your Soul	Get caught on Soul Fire
+A Soul For A Soul	Place down a Soul Campfire
+Seeing Stars	Mine some glowstone dust from the nether
+Glows in the Dark	Shoot a mob with a spectral arrow
+Glowstone Miner	Mine or craft a stack of glowstone blocks
+The Descent	Dig down into the deepest depths of the Nether
+Nether Say Die	Excavate out some Ancient Debris from deep beneath the lava oceans
+Holy Scrap!	Smelt Ancient Debris into Netherite Scrap
+Diamonds Are Not Forever	Use Gold Ingots and Netherite Scrap to make a Netherite Ingot
+MOAR Upgraded Tools	Craft a Netherite Pickaxe, Axe, Shovel and Hoe
+A Knight to Nether Forget	Use a Smithing Table to upgrade your diamond armor to netherite armor
+Soul Runnings!	Step on Soul Sand with Netherite Boots enchanted with Soul Speed III
+Ludicrous Speed!	Achieve an absolutely insane speed by combining the Speed II effect, Dolphin’s Grace, Depth Strider III, Soul Speed III and sprinting
+Fool Me Twice	Completely use up a netherite hoe. Clearly you have chosen... poorly
+Netherite Miner	Mine a stack of Ancient Debris
+Master Netherite Miner	Mine enough Ancient Debris to make a stack of Netherite Ingots (don’t worry, mining a stack of Netherite Blocks is optional in this datapack, I’m not that evil…)
+Netherite Mad Lad	Be an absolute madlad and grind enough Ancient Debris to make a stack of Netherite Blocks (this is hidden and not required for Advancement Legend btw…)
+I'm in Lava With You	Hit something while you and it are in lava
+Limbo Walker	Get above the roof in the nether
+Subspace Bubble	Use the Nether to travel 7km in the Overworld
+Let Me Out!	Stay in the Nether for twenty ingame days
+Inception	Build a machine that can break a hole in the roof of the Nether
+A Terrible Fortress	Break your way into a Nether Fortress
+The Hunt Begins	Kill a wither skeleton
+Spooky Scary Skeleton	Obtain a wither skeleton's skull
+Withering Heights	Summon the Wither
+Decaying Beauty	Pick up some Wither Roses from the damage the Wither wrought on your world
+Bring Home the Beacon	Construct and place a Beacon
+Light Show	Place Stained Glass directly on top of a Beacon to change the colour of its beam
+Beaconator	Bring a beacon to full power
+Instant Mining	Hold a Diamond or Netherite Pickaxe enchanted with Efficiency V while under the Haste II effect
+Beacon Overlord	Acquire every beacon-induced effect at once
+Into Fire	Relieve a Blaze of its rod
+The Nether's Shield	Block some blaze fireballs
+Blaze Extinguisher	Collect a stack of blaze rods
+Time to Fire Back	Craft a stack of fire charges
+Basis of Brewing	Harvest some nether wart from a nether fortress
+Local Brewery	Craft a Brewing Stand for brewing potions
+Ender's Chest	Craft an ender chest for some extra inventory space
+Eye Spy	Follow an Ender Eye
+The End?	Enter the End Portal
+Potions	Brewing potions with helpful and hindering effects
+Failed Concoctions	Brew a mundane and thick potion
+Death by Magic	Kill a mob with a splash potion
+Performance-Enhancing Drugs	Brew a Speed Potion for cheating on athletics
+Super Strength	Brew a Strength Potion for cheating on weightlifting
+A Weak Brew	Brew up a potion of Weakness
+Zombie Doctor	Cure a zombie villager
+Mad Scientist	Cure a zombie villager of every profession
+Medic!	Brew a healing potion
+Hyper-Healing	Brew and drink a regeneration potion
+Nocturnal	Brew and drink a night vision potion
+The Invisible Player	Brew and drink an invisibility potion
+Stealth Takedown	Dispatch a Creeper at melee range while you are invisible
+True Feather Falling	Brew and drink a slow falling potion
+Tank	Become nearly invincible to all damage using a Turtle Master Potion
+Secret of the Ooze	Use a Slime Block to brew a Potion of Oozing
+Final Shout	Kill a mob that has the Wind Charged, Weaving and Oozing effects
+You Need a Mint	Collect dragon's breath in a glass bottle
+Noxious Fumes	Use dragon's breath to brew a lingering potion
+Gas!	Kill a mob using a lingering potion
+Imbued Projectiles	Craft some Tipped Arrows using arrows and a Lingering Potion
+String Shot	Shoot a mob with an Arrow of Weaving
+Furious Ammunition	Craft every type of tipped arrow
+Stayin' Frosty	Swim in lava while having the Fire Resistance effect
+Marine Marauder	Swim in water while having the Water Breathing effect
+Hopping Mad	Get jump boost from a beacon or a potion
+A Furious Cocktail	Have every potion effect applied at the same time
+A Much More Doable Challenge	Get all the effects possible during your life (not all at the same time)
+A Furious Test Subject	Get attacked by a mob with every potion effect
+Gas Bomb	Ignite a Creeper of each possible effect using Flint and Steel
+The End	Or the beginning?
+Is it a Plane?	Look at the Ender Dragon through a Spyglass
+Why do I hear boss music?	Play a Music Disc while fighting the Ender Dragon
+Dragon Shield	Attempt to block the dragon's attacks
+Free the End	Good luck
+The Actual End	Get killed by an Enderman in The End
+The Point of No Return	Fall into the void
+Event Horizon	Survive void damage
+Cow Jumped Over The Moon	Bring a cow from the Overworld to the End and then kill it
+The Void Frogs	Lower a Frog into the void using a Slow Falling potion, then kill it so it becomes one with the void
+The Next Generation	Hold the Dragon Egg
+The Start of Something	Craft your first ender crystal
+The End... Again	Respawn the Ender Dragon
+What For?	Craft 64 ender crystals
+Ring of the End	Defeat the Ender Dragon 20 times
+The Beginning	Say goodbye to the Wither...
+Remote Getaway	Escape the island
+End Bricks!	Craft end bricks from end stone
+Getting Chorus	Attack a chorus tree until it collapses
+Extrabiologist	Plant a chorus plant in the overworld for study
+Purpurfect!	Craft or collect purpur blocks, slabs, pillars and stairs
+A Wizard’s Breakfast	Eat a stack of Chorus Fruit in one go
+In Your Face, Neil Armstrong	Colonise the End with potato crops
+I'm Coming Back, Murph!	Travel far into the End dimension
+No! Don't let me leave, Murph!	Travel so far into the End dimension you might as well be on another planet
+Void Walker	Explore every end biome
+Unending Hell	Travel directly from the End to the Nether
+Dimension Penetration	Get hit by an arrow that has visited every dimension during its lifetime
+The City at the End of the Game	Go on in, what could happen?
+For Mother, Clarence	Kill a shulker
+Portable Storage	Use shulker shells to craft a shulker box
+Organizational Wizard	Name a Shulker Box 'Blocks' for storing your blocks
+Somewhere Over The Rainbow...	Craft all 16 shulker box types
+Shouldn't my shield levitate too?	Block a Shulker's bullet with your shield
+Unstoppable Force vs Immovable Object	Hit a Shulker with a thrown Wind Charge
+You're doing it wrong	Kill a mob with a Mace while levitating upwards
+Shulker Breaker	Collect a stack of shulker shells
+Great View From Up Here	Levitate up a distance of 50 metres
+Dogfight	Kill a Skeleton while both you and it have levitation
+Anti-Gravity Generator	Bring a shulker into the overworld and let it give you anti-gravity
+Good Luck Getting This One	Kill a baby Turtle, a Witch, a Phantom, an Elder Guardian and a Piglin Brute with one piercing arrow in The End
+Off With His Head!	Collect a dragon's head from the bow of an end ship
+Dragon vs Dragon	Kill the Ender Dragon while wearing a Dragon Head
+Sky's the Limit	Find an Elytra
+Some Breakthrough	Exhaust your elytra
+Rocketman	Fill your inventory with full stacks of firework rockets
+Sky High	Fly up beyond the world height limit
+Uh, Houston? We have a problem	Fly up to a ridiculous height
+Diver's Dozen	Kill 12 mobs while airborne using Elytra. Stopping flight or touching liquid will reset your progress
+Super Challenges	Good luck completing... any of these ;)
+All the Blocks!	Obtain all the blocks!
+All the Items!	Obtain all the items!
+Stack All the Blocks!	Obtain a stack of all the blocks!
+Stack All the Items!	Obtain a stack of all the items!
+Telescopic	Look at every mob using a Spyglass, each from at least 25 blocks away
+Highway to Hell	Send every mob to the Nether... and kill them all there
+Endergeddon	Send every mob to the End... and kill them all there
+Potion Master	Kill every mob in the game with splash potions
+Biological Warfare	Kill every mob in the game with lingering potions
+Nuclear Fusion	Strike every mob that can transform with lightning at once
+Zombie Apocalypse	Obtain a stack of Zombie Heads
+Rise of the Skeletons	Obtain a stack of Skeleton Skulls
+Creepergeddon	Obtain a stack of Creeper Heads
+Poglin!	Obtain a stack of Piglin Heads
+Dragon Army	Obtain a stack of Ender Dragon Heads
+Let's take it up a notch	Collect 64 Enchanted Golden Apples
+Constellation	Collect 64 nether stars
+Warlock	Obtain a stack of Beacons
+Hearts of the Stack	Collect 64 Hearts of the Sea
+Abyss Lord	Obtain a stack of Conduits
+We're in the endgame now	Construct a village in the End and defend it from a raid
+Dragon vs Dragon II: Electric Boogaloo	Defeat the Ender Dragon while wearing a dragon head... without touching the ground
+Dragon vs Wither: The Pre-Sequel	Defeat the Wither while wearing a Dragon head... without touching the ground
+At the Rim of the Sky	Slay the Ender Dragon in one hit using a Mace
+The Perfect Run	Summon the Ender Dragon, the Wither, and a Raid within thirty seconds of each other, then defeat all of them without taking damage
+Riddle Me This	See below for description and walkthrough (as it is very long)
+I am Loot!	Open up every type of loot chest
+The World Is Ending	Summon ten withers at once
+Overwarden	Have fifty Wardens present within 100 blocks of you
+Immortal	Fill your entire inventory with Totems of Undying
+Death From All	Get killed by every mob that can kill you
+Ultimate Enchanter	Obtain every enchantment at every level throughout your enchanting career
+Stockbroker	Trade with every profession from every biome type
+Global Vaccination	Cure a zombie villager of every profession... from every biome
+How Did We Get Here?	Have every effect applied at the same time
+Ad Astra	Reach an altitude of 10,000 blocks above the world
+I'm in Space!	Levitate up a distance of 256 blocks
+The Devil's Distance	Use the Nether to travel 666km in the Overworld
+A Million Blocks Away	Travel a million blocks away from spawn
+Explorer of Worlds	Discover every biome in every dimension
+Farlander	Travel all the way to the border of the world
+
+HAPPYGHAST
+JUSTICE
+LETITGO
+in two ways!) in "When Pigs Used to Fly"? (SUS
+abbv.) (BACAP
+ENDGAME
+DVDII
+POISONDART
+MRWOLF
+TIMETOMINE
+PORTALBOW
+BLACK
+SLABS
+NOOOOOO
+POACHER
+SNEAK
+SNOUT
+infamous spelling hazard) (EEUUWWW
+NINE
+NETHER
+MILESTONE
+AWW
+DINOSAUR
+COW
+CHICKEN
+COWTIPPER
+GOATOUTOFHERE
+IMPOSSIBLE
+FREAK
+EYETEMPLATE
+LASERSHARK
+EYESPY
+
+AVERAGE:
+
+PERFECT
+WARDEN
+CHIC
+JEB
+GRUMM
+TOIL
+FOAL
+TASKS
+LEGEND
+COPPER
+ROOTS
+EIGHT
+BLIND
+DUNGEONS
+STEALS
+OVERLORD
+CALLEDIT
+COPPERGOLEM
+MENDING
+KING
+GONE
+HOME
+PROP
+SWORD
+TRAP
+LOOM
+COLOR
+CHARTREUSE
+SPRUCELEE
+SAND
+HARRY POTTER
+GLAZE
+CHAIN
+LIVINGDUMMY
+LOSER
+HOEHOEHOE
+because it has no arms) (SKY
+YAY
+SUS
+___) (LIE
+OLAF
+MELON
+RABBIT
+CHICKEN
+GOAT
+LAMB
+YALIKEJAZZ
+LEBOWSKI
+or what adding this clue might be)? (FOALPLAY
+horse stats adv
+DUCK
+DIE
+CHICKENJOCKEY
+REVENGE
+ZOMBIE
+KUNGFU
+ADVENTURE
+RAIDCAPTAIN
+BUDGETVEX
+PRIME
+HIREDHELP
+DAILY
+PSYCHO
+WIND
+VIBE
+SILK
+ATRIPLE
+BARRELROLL
+MOLES
+MASSESS
+DIAMONDEDGE
+TERMINATOR
+MENDING
+MACERATOR
+WINDU
+MASTERANGLER
+LONGWALKS
+JUMPINGJACK
+SIXTYFIVE
+MCPIG
+and part of the advancement you'll obtain it from) (BIGBLIMP
+TWOBYTWO
+CHESTS
+FUNGI
+ZORKCHOP
+LIVEONE
+WUB
+NOTQUITENINE
+JELLYFISH
+BIRD
+BALLOON
+PLANE
+PILLOW
+BEAST
+ZEPPELIN
+LIMBO
+INCEPTION
+LETMEOUT
+INTOFIRE

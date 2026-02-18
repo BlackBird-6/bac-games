@@ -1,0 +1,12 @@
+.idea/*
+.venv/*
+*.json
+*.zip
+
+# BACAP files
+bac-database/bacap-frames/images/*
+bac-database/packs/*
+
+# Database files
+*.db
+!bacap.db
