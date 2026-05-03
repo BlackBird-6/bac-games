@@ -2,16 +2,15 @@ import pyautogui
 import keyboard
 import time
 import pyperclip
+import os
 
 def connect():
-    input = open("Text/connections_in.txt", "r+", encoding="UTF-8").read().splitlines()
+    input = open(os.path.join(os.path.dirname(__file__), "Text/connections_in.txt"), "r+", encoding="UTF-8").read().splitlines()
 
     def paste(msg):
         pyautogui.hotkey('ctrl', 'a')
         pyperclip.copy(msg)
         pyautogui.hotkey('ctrl', 'v')
-
-    time.sleep(4)
 
     for l in input:
         l = l.replace("-- ", "")
@@ -39,10 +38,12 @@ def connect():
         paste(",".join(members))
         pyautogui.press('tab')
         pyautogui.press('tab')
+    assert 1 == 2
 
-keyboard.add_hotkey('fn', connect())
-
-
+if __name__ == "__main__":
+    keyboard.add_hotkey('alt', connect)
+    while True:
+        time.sleep(0.01)
 
 # -- WEEK 25:
 # -- Advancements with (missing) periods: Mr Bean, Ladder Climbers Inc, Poseidon vs Hades, D B Copper
