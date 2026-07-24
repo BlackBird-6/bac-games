@@ -79,11 +79,12 @@ def sortObscurity():
     print(obscurity) # Rank advs by obscurity (words more unique to this advancement)
 
 
-o = open("Text/out.txt", "w+", encoding="UTF-8")
-for a in sorted(advs):
-    o.write(a + "\n")
-    print(a)
-o.close()
+print(nonTitleCaseAdvs())
+# o = open("Text/out.txt", "w+", encoding="UTF-8")
+# for a in sorted(advs):
+#     o.write(a + "\n")
+#     print(a)
+# o.close()
 # for a in advs:
 #         a = a.split()
 #         for w in a[1:]:

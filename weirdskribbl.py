@@ -2,12 +2,16 @@ import time
 import random
 # import kagglehub
 
-# # Download latest version
-# path = kagglehub.dataset_download("shivamb/10000-most-common-passwords")
 
-# print("Path to dataset files", path)
+f = open("Text/filler.txt").read().splitlines()
 
-# print(",".join([str(i) for i in range(100)]))
+res = []
+for l in f:
+    print(l)
+    res.append(l)
+print(",".join(res))
+
+time.sleep(100)
 
 # str = "AngryCave,Blaze,BlazeHappy,Cave,CaveFaceInTheFace,DisappointedCave,EvilCave,PharaohCave,RealisticCave,SadCave,Thomas,UpsideDownCave,Weathered_Copper_BlocK,Weathered_Copper_BlocK2,Yahya,abduction,advancement,advancement2,aerial_assault_drone,aol,aostralia,assassin,australia,barry,blaze,blueenderman,bruh,cake,camel,camel2,captain_kelrig,captaincoldbeard,cave_spider,celestipede_body,celestipede_head,celestipede_tail,command_block,creeper,chicken,darkhelmet,dennis,diamond_hoe,distortedzombie,dk,drone,ghast,frog,farewell,evoker,enderman,enderghast,enderdragon,elder_guardian,dwarf,gnome,greenenderman,guardian,happy_ghast,happy_ghastling,henry,herobrine,hyso,iron_golem,jeb_nooooo,kneel,laser_blaster,laser_blaster2,lemon_camel,lucas,magmacube,mariowaah,master,mcmovie_sheep,montyshocked,narelle,no,pharaoh,pig,polarbear,pumpkin,rick_astley,sandmonster,sanic,sherifffirearm,skeleton,slime,spider,startrekkin,steve,steve_in_love,supersanic,theworldisending,thinkos,utgy,villager,vindicator,warden,wither,wither_skeleton,yellowenderman,yes,yoda,zombie,zombie_pigman"
 # str = str.replace("_", " ")
