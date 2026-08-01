@@ -85,7 +85,7 @@ def get_cell_color(background_color):
 def assign_cell_colors(sheet_key):
     try:
         # Authenticate with Google Sheets API
-        creds = Credentials.from_service_account_file("Text/google_auth.json")
+        creds = Credentials.from_service_account_file("Text/google_auth.json") # cd into here
         service = build("sheets", "v4", credentials=creds)
         sheet = service.spreadsheets()
 
@@ -326,7 +326,7 @@ def read_datapack(pack_name):
     # print(adv_namespace)
 
 # CONFIG
-READ_SHEET = False
+READ_SHEET = True
 READ_DATAPACK = True
 SET_DATABASE = True
 
@@ -334,7 +334,7 @@ if READ_SHEET:
     trophy_sheet_key = "1yGppfv2T5KPtFWzNq25RjlLyerbe-OjY_jnT04ON9iI"
     access_trophy_sheet(trophy_sheet_key)
 
-    sheet_key = "1_DwKEZ0vqCOp2POhiOVSoMVeVNpU1WNPzk0L8qR_y2s"
+    sheet_key = "1FnjIsl6xwJBjMoOmRn0xfnYWNchrgy6Rst9Uyj74uVQ"
     access_sheet(sheet_key)
     with open("raw_output.txt", "w+", encoding="utf-8") as out:
         json.dump(advs, out)
@@ -350,7 +350,7 @@ else:
 
 
 if READ_DATAPACK:
-    read_datapack("BlazeandCaves Advancements Pack 1.20")
+    read_datapack("BlazeandCaves Advancements Pack 1.21")
 # print(advs)
 
 # for adv in advs:
