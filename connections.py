@@ -43,6 +43,7 @@ def connect():
 
 if __name__ == "__main__":
     keyboard.add_hotkey('alt', connect)
+    print("Ready")
     while True:
         time.sleep(0.01)
 

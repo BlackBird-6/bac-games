@@ -326,7 +326,7 @@ def read_datapack(pack_name):
     # print(adv_namespace)
 
 # CONFIG
-READ_SHEET = True
+READ_SHEET = False
 READ_DATAPACK = True
 SET_DATABASE = True
 
@@ -350,7 +350,7 @@ else:
 
 
 if READ_DATAPACK:
-    read_datapack("BlazeandCaves Advancements Pack 1.21")
+    read_datapack("BlazeandCave's Advancements Pack 1.21")
 # print(advs)
 
 # for adv in advs:
@@ -427,8 +427,8 @@ database_data = cursor.execute('''SELECT name from advancements ''')
 d = database_data.fetchall()
 advs = [adv[0] for adv in d]
 
-for l in advs:
-    print(l)
+# for l in advs:
+#     print(l)
 
 # database_data = cursor.execute('''SELECT name, description from advancements''')
 # d = database_data.fetchall()
