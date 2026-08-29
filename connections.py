@@ -38,7 +38,11 @@ def connect():
 
         paste(",".join(members))
         pyautogui.press('tab')
+        paste("get good")
+        
         pyautogui.press('tab')
+        pyautogui.press('tab')
+
     assert 1 == 2
 
 if __name__ == "__main__":
