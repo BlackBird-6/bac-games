@@ -24,6 +24,7 @@ def connect():
             pyautogui.press('tab')
             pyautogui.press('tab')
             pyautogui.press('tab')
+            pyautogui.press('tab')
             continue
 
         category, members = l.split(":")
