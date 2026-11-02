@@ -1,5 +1,5 @@
--- ⭐️ BACAP Connections 74 ⭐️
--- 1.21 advancements: Fountain of Youth, Whole Horse, Death Star, Taking the Scenic Route
--- 1.20 advancements: Copper Age, Gratest of All Time, Mob Kabob, Echidna
--- 1.19 advancements: Booshes, The Three Little pigs, Why do I hear boss music, At the rim of the sky
--- 1.18 advancements: I yearned for the mines, Pale Gardener, Eyeball Forest, Light Show
+-- ⭐️ BACAP Connections 76 ⭐
+-- Requires an effect: Anti-gravity generator, Performance-enhancing drugs, hopping mad, The ghastly eyes
+-- Multi-requirements: Slabs for days, Yay! I got my wood!, Creepers and withers, Plane Walker
+-- Renamed Advancements: Help! I've been framed!, Scientific Inaccuracy, All Aboard!, Stepping on Legos
+-- Not a BACAP 1.0 advancement: Statistics, Chartreuse!, Uh Oh, A Suspicious Advancement
